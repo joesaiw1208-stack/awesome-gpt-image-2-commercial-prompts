@@ -23,12 +23,25 @@ Thanks for helping improve this repository.
 Each prompt file should include:
 
 - title
-- use case
-- asset type
-- prompt
+- best-for scenarios
+- English prompt
+- Chinese prompt
 - why it works
-- adaptation tips
-- suggested variations
+
+## Prompt Format
+
+We align the repo with [docs/gpt-image-2-best-practices.md](./docs/gpt-image-2-best-practices.md).
+
+Preferred field order:
+
+- goal
+- asset
+- scene
+- subject
+- composition
+- lighting
+- materials and styling
+- constraints
 
 ## Naming
 
@@ -43,6 +56,7 @@ If you contribute example outputs:
 - place them in `assets/examples/`
 - use descriptive filenames
 - ensure the image can be shared publicly
+- ensure the image actually matches the prompt title and category
 
 ## Pull Requests
 

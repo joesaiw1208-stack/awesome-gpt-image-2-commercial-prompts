@@ -1,43 +1,37 @@
 # Summer Beverage Launch Banner
 
-## Use Case
+## Best For
 
-Seasonal beverage drop, homepage hero, social ad creative, and mobile-first campaign visual.
+- seasonal homepage banner
+- summer paid social
+- limited-edition launch creative
 
-## Asset Type
-
-Lifestyle launch banner
-
-## Prompt
+## Prompt (EN)
 
 ```text
-Use case: product-mockup
-Asset type: seasonal beverage campaign banner
-Primary request: Create an energetic e-commerce launch visual for a sparkling summer beverage can that feels refreshing, premium, and highly shareable.
-Scene/backdrop: Sunlit coastal-inspired scene with translucent ice fragments, dew condensation, citrus slices placed sparingly, and a bright airy gradient sky backdrop.
-Subject: One sleek beverage can positioned heroically, premium packaging area, realistic condensation droplets, fresh launch energy.
-Style/medium: premium commercial beverage photography with lifestyle polish.
-Composition/framing: dynamic centered composition with slight perspective drama, enough surrounding space for campaign headline placement, mobile-friendly readability.
-Lighting/mood: crisp summer daylight, radiant highlights, refreshing and energetic mood, vivid but not chaotic.
-Color palette: citrus yellow, icy blue, white, aluminum silver.
-Materials/textures: cold aluminum can, translucent ice, juicy citrus texture, realistic water droplets.
-Text (verbatim): ""
-Constraints: no people, no hands, no text embedded in image, no messy splashes covering product, no duplicate cans, no watermark.
-Avoid: low-budget soda ad look, oversaturated chaos, cartoon citrus, unrealistic liquid physics.
+Goal: Create a bright seasonal beverage launch image that feels refreshing and campaign-ready.
+Asset: Summer banner for a sparkling drink release.
+Scene: Sunlit coastal-inspired setup with ice, restrained citrus slices, and airy sky-blue backdrop.
+Subject: One beverage can as the hero product with visible condensation.
+Composition: Dynamic centered composition, enough copy space, product fully readable, mobile-friendly framing.
+Lighting: Crisp summer daylight with radiant highlights and energetic freshness.
+Materials and styling: Cold aluminum can, translucent ice, citrus texture, clean splash-free premium beverage look.
+Constraints: No people, no hands, no text, no duplicate cans, no messy splash covering the product, no watermark.
+```
+
+## 提示词（中文）
+
+```text
+目标：生成一张明亮、清爽、适合季节营销的饮料上新图。
+资产类型：气泡饮新品的夏季 campaign 横幅。
+场景：带海岸感的日光场景，包含冰块、克制摆放的柑橘片和通透的天蓝背景。
+主体：一罐饮料作为绝对主角，罐身带真实冷凝水珠。
+构图：动态居中构图，预留文案空间，产品保持完整清晰，并适合移动端裁切。
+光线：清脆夏日阳光，高光鲜明，整体感觉清凉有活力。
+材质与风格：冰冷铝罐、透明冰块、柑橘纹理，避免廉价飞溅饮料广告感。
+约束：不要人物，不要手，不要文字，不要重复罐子，不要飞溅遮挡主体，不要水印。
 ```
 
 ## Why It Works
 
-This prompt creates motion and seasonality while still leaving the product readable enough for commercial use.
-
-## Adaptation Tips
-
-- Swap beverage can for bottle, energy drink, kombucha, or cold brew
-- Adjust to spring blossom, autumn harvest, or holiday gifting themes
-- Create separate 1:1, 4:5, and 16:9 variants from the same structure
-
-## Suggested Variations
-
-- beach-club premium soda version
-- healthy sparkling water version
-- bold tropical limited-edition version
+It keeps the energy high while preserving the clean readability brands need for launch assets.

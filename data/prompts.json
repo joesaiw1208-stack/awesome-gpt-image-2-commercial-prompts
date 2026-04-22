@@ -3,96 +3,176 @@
     "slug": "luxury-skincare-hero",
     "category": "beauty",
     "title": "Luxury Skincare Hero",
+    "title_zh": "高端护肤主视觉",
     "use_case": "premium skincare launch visual",
-    "asset_type": "photorealistic e-commerce hero image",
+    "asset_type": "hero banner",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
     "example_image": "assets/examples/luxury-skincare-hero.png"
-  },
-  {
-    "slug": "clean-supplement-packshot",
-    "category": "food-beverage",
-    "title": "Clean Supplement Packshot",
-    "use_case": "marketplace listing image",
-    "asset_type": "photorealistic packshot",
-    "example_image": "assets/examples/clean-supplement-packshot.png"
-  },
-  {
-    "slug": "luxury-jewelry-campaign",
-    "category": "jewelry",
-    "title": "Luxury Jewelry Campaign",
-    "use_case": "premium jewelry launch visual",
-    "asset_type": "luxury campaign visual",
-    "example_image": "assets/examples/luxury-jewelry-campaign.png"
-  },
-  {
-    "slug": "summer-beverage-launch-banner",
-    "category": "seasonal-campaigns",
-    "title": "Summer Beverage Launch Banner",
-    "use_case": "seasonal beverage launch",
-    "asset_type": "lifestyle launch banner",
-    "example_image": "assets/examples/summer-beverage-launch-banner.png"
-  },
-  {
-    "slug": "editorial-fashion-flatlay",
-    "category": "fashion",
-    "title": "Editorial Fashion Flatlay",
-    "use_case": "fashion collection launch",
-    "asset_type": "flatlay campaign visual",
-    "example_image": ""
-  },
-  {
-    "slug": "scandinavian-chair-lifestyle",
-    "category": "home-living",
-    "title": "Scandinavian Chair Lifestyle",
-    "use_case": "furniture PDP hero",
-    "asset_type": "lifestyle interior product image",
-    "example_image": ""
   },
   {
     "slug": "clinical-beauty-dropper-detail",
     "category": "beauty",
     "title": "Clinical Beauty Dropper Detail",
+    "title_zh": "临床感精华滴管微距",
     "use_case": "skincare close-up campaign visual",
-    "asset_type": "macro beauty product detail image",
+    "asset_type": "macro detail image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "clean-supplement-packshot",
+    "category": "food-beverage",
+    "title": "Clean Supplement Packshot",
+    "title_zh": "干净营养补剂 Packshot",
+    "use_case": "marketplace listing image",
+    "asset_type": "packshot",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": "assets/examples/clean-supplement-packshot.png"
+  },
+  {
+    "slug": "marketplace-bundle-packshot",
+    "category": "food-beverage",
+    "title": "Marketplace Bundle Packshot",
+    "title_zh": "电商组合装 Packshot",
+    "use_case": "bundle marketplace image",
+    "asset_type": "bundle packshot",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/marketplace-bundle-packshot.png"
+  },
+  {
+    "slug": "organic-coffee-lifestyle-pour",
+    "category": "food-beverage",
+    "title": "Organic Coffee Lifestyle Pour",
+    "title_zh": "有机咖啡生活方式倒液图",
+    "use_case": "coffee brand launch",
+    "asset_type": "lifestyle beverage image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "editorial-fashion-flatlay",
+    "category": "fashion",
+    "title": "Editorial Fashion Flatlay",
+    "title_zh": "时尚平铺编辑图",
+    "use_case": "fashion collection launch",
+    "asset_type": "flatlay campaign visual",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
     "example_image": ""
   },
   {
     "slug": "streetwear-on-model-launch",
     "category": "fashion",
     "title": "Streetwear On-Model Launch",
+    "title_zh": "街头服饰上身发布图",
     "use_case": "streetwear drop campaign visual",
-    "asset_type": "on-model fashion campaign image",
-    "example_image": ""
+    "asset_type": "on-model campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/streetwear-on-model-launch.png"
   },
   {
-    "slug": "organic-coffee-lifestyle-pour",
-    "category": "food-beverage",
-    "title": "Organic Coffee Lifestyle Pour",
-    "use_case": "coffee brand launch",
-    "asset_type": "lifestyle beverage campaign image",
+    "slug": "footwear-floating-hero",
+    "category": "fashion",
+    "title": "Footwear Floating Hero",
+    "title_zh": "鞋履悬浮主视觉",
+    "use_case": "sneaker launch visual",
+    "asset_type": "footwear hero image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/footwear-floating-hero.png"
+  },
+  {
+    "slug": "luxury-handbag-shelf-hero",
+    "category": "fashion",
+    "title": "Luxury Handbag Shelf Hero",
+    "title_zh": "高端手袋陈列主视觉",
+    "use_case": "luxury handbag launch visual",
+    "asset_type": "handbag hero image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
     "example_image": ""
   },
   {
     "slug": "minimal-bedding-hero",
     "category": "home-living",
     "title": "Minimal Bedding Hero",
+    "title_zh": "极简床品主视觉",
     "use_case": "bedding collection hero",
-    "asset_type": "interior bedding campaign image",
+    "asset_type": "interior hero image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": "assets/examples/minimal-bedding-hero.png"
+  },
+  {
+    "slug": "scandinavian-chair-lifestyle",
+    "category": "home-living",
+    "title": "Scandinavian Chair Lifestyle",
+    "title_zh": "北欧单椅生活方式图",
+    "use_case": "furniture PDP hero",
+    "asset_type": "lifestyle interior image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
     "example_image": ""
+  },
+  {
+    "slug": "kitchen-appliance-countertop-demo",
+    "category": "home-living",
+    "title": "Kitchen Appliance Countertop Demo",
+    "title_zh": "厨房小家电台面场景图",
+    "use_case": "kitchen appliance lifestyle image",
+    "asset_type": "countertop demo image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/kitchen-appliance-countertop-demo.png"
+  },
+  {
+    "slug": "luxury-jewelry-campaign",
+    "category": "jewelry",
+    "title": "Luxury Jewelry Campaign",
+    "title_zh": "高级珠宝 Campaign 图",
+    "use_case": "premium jewelry launch visual",
+    "asset_type": "luxury campaign visual",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/luxury-jewelry-campaign.png"
   },
   {
     "slug": "bridal-ring-macro-detail",
     "category": "jewelry",
     "title": "Bridal Ring Macro Detail",
+    "title_zh": "婚戒微距细节图",
     "use_case": "ring PDP secondary image",
     "asset_type": "jewelry macro detail image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
     "example_image": ""
+  },
+  {
+    "slug": "summer-beverage-launch-banner",
+    "category": "seasonal-campaigns",
+    "title": "Summer Beverage Launch Banner",
+    "title_zh": "夏季饮料上新横幅",
+    "use_case": "seasonal beverage launch",
+    "asset_type": "lifestyle launch banner",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": "assets/examples/summer-beverage-launch-banner.png"
   },
   {
     "slug": "holiday-gift-box-hero",
     "category": "seasonal-campaigns",
     "title": "Holiday Gift Box Hero",
+    "title_zh": "节日礼盒主视觉",
     "use_case": "holiday gifting campaign image",
     "asset_type": "seasonal gifting campaign image",
-    "example_image": ""
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": "assets/examples/holiday-gift-box-hero.png"
   }
 ]
