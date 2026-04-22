@@ -4,7 +4,7 @@ Thanks for helping improve this repository.
 
 ## What We Accept
 
-- new e-commerce prompt templates for GPT-Image-2
+- new commercial prompt templates for GPT-Image-2
 - stronger versions of existing prompts
 - category expansions with real commercial value
 - example outputs generated from prompts in this repo
@@ -13,10 +13,11 @@ Thanks for helping improve this repository.
 
 ## What We Do Not Accept
 
-- generic art prompts with no commerce use case
+- generic art prompts with no commercial use case
 - prompts copied without meaningful adaptation or attribution context
 - prompts with unclear output goals
 - prompts that depend on private brand assets without permission
+- prompts that imitate a living brand too literally instead of abstracting the visual language
 
 ## Prompt Submission Standard
 

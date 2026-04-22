@@ -1,13 +1,13 @@
-# Awesome GPT-Image-2 E-Commerce Prompts
+# Awesome GPT-Image-2 Commercial Prompts
 
 [English](./README.md) | 简体中文
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-16-blue.svg)](./prompts)
-[![Featured Gallery](https://img.shields.io/badge/featured-6-gold.svg)](./README.zh-CN.md#精选案例画廊)
+[![Prompts](https://img.shields.io/badge/prompts-24-blue.svg)](./prompts)
+[![Featured Gallery](https://img.shields.io/badge/featured-10-gold.svg)](./README.zh-CN.md#精选案例画廊)
 [![Languages](https://img.shields.io/badge/prompt_languages-EN%20%7C%20ZH-green.svg)](./README.md)
 
-这是一个面向 **GPT-Image-2** 的双语 Prompt Gallery，专门服务于 **电商视觉**、**零售产品叙事** 和 **更接近转化目标的商业出图**。
+这是一个面向 **GPT-Image-2** 的双语 Prompt Gallery，专门服务于 **商业视觉**、**品牌叙事**、**营销 campaign** 和 **更接近转化目标的产品出图**。
 
 ## 这个版本修了什么
 
@@ -16,7 +16,25 @@
 - 按 OpenAI 官方图像文档重新校准 prompt 写法
 - 所有新增与重写的核心案例都提供英文版和中文版
 - README 直接展示图片和 prompt，不再强依赖跳转
-- 新案例优先补电商真正高频的实用场景
+- 新案例优先补真实商业工作流，而不只是电商白底图
+
+## 为什么不只叫电商
+
+`ecommerce` 这个词太窄了。
+
+现在很多团队用 GPT-Image-2 做的不只是商品图，还包括：
+
+- 首页品牌主视觉
+- 社媒投放 campaign 图
+- 高端品牌 launch 叙事
+- 门店橱窗与 retail storytelling
+- 酒店、空间与生活方式营销
+- 创意团队内部的商业 moodboard
+
+所以这个仓库现在覆盖两条主线：
+
+- 面向转化的商品与零售视觉
+- 面向品牌的商业 campaign 视觉
 
 ## 已按 OpenAI 官方建议校准
 
@@ -236,6 +254,138 @@ Constraints: No people, no text, no logo, no clutter, no extra appliances, no un
 约束：不要人物，不要文字，不要 logo，不要杂乱，不要额外家电，不要不真实的蒸汽，不要水印。
 ```
 
+### 7. Fine Fragrance Obsidian Hero
+
+适用场景：香水发布 campaign、品牌首页 hero、高端投放静态图  
+完整文件：[prompts/fragrance/fine-fragrance-obsidian-hero.md](./prompts/fragrance/fine-fragrance-obsidian-hero.md)
+
+![Fine Fragrance Obsidian Hero](./assets/examples/fine-fragrance-obsidian-hero.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create a cinematic fine-fragrance hero image that feels luxurious, mysterious, and brand-defining.
+Asset: Commercial hero visual for a premium fragrance launch.
+Scene: Deep black studio environment with an obsidian stone plinth, faint reflective surface, and restrained haze for atmosphere.
+Subject: One architectural perfume bottle with smoked glass, a dark cap, and no visible branding.
+Composition: Centered hero composition, bottle fully visible, strong symmetry, generous negative space, elegant luxury campaign balance.
+Lighting: Controlled spotlight from above and behind with glossy edge highlights and soft reflected glow on the base.
+Materials and styling: Smoked glass, polished lacquer, dark stone, minimal metallic accents, haute-luxury editorial mood.
+Constraints: No text, no logo, no flowers, no model, no hands, no busy props, no cheap sparkle effects, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张电影感高级香氛主视觉，既神秘又昂贵，能承担品牌定调的作用。
+资产类型：高端香水新品发布的商业 hero 视觉。
+场景：深黑摄影棚环境，黑曜石底座，克制的反射面，配合极轻微氛围雾。
+主体：一只建筑感香水瓶，烟熏玻璃瓶身，深色瓶盖，不出现品牌标识。
+构图：居中主视觉，瓶身完整可见，整体偏对称，留白充分，像奢侈品 campaign。
+光线：顶部和后方受控聚光，瓶身边缘高光干净，底座有柔和反射。
+材质与风格：烟熏玻璃、抛光漆面、深色石材、少量金属细节，高级编辑感明显。
+约束：不要文字，不要 logo，不要花卉，不要模特，不要手，不要繁杂道具，不要廉价闪光特效，不要水印。
+```
+
+### 8. Luxury Watch Macro Campaign
+
+适用场景：高端腕表发布、精品店首页 hero、收藏级社媒 campaign  
+完整文件：[prompts/watches/luxury-watch-macro-campaign.md](./prompts/watches/luxury-watch-macro-campaign.md)
+
+![Luxury Watch Macro Campaign](./assets/examples/luxury-watch-macro-campaign.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create a luxury watch campaign image that emphasizes craftsmanship, metal finishing, and premium precision.
+Asset: Commercial launch visual for a high-end wristwatch.
+Scene: Dark graphite studio background with a curved brushed-metal pedestal and subtle shadow depth.
+Subject: One premium wristwatch shown as the hero piece, with the case, bracelet, dial texture, and crown rendered clearly.
+Composition: Tight hero crop, three-quarter angle, watch dominant in frame, composition balanced like a luxury print advertisement.
+Lighting: Controlled directional lighting with crisp metal highlights, gentle contrast, and refined dial reflections.
+Materials and styling: Brushed steel, polished bevels, sapphire crystal, precise dial texture, restrained monochrome luxury palette.
+Constraints: No model, no wrist, no text, no logo, no extra watches, no loud color accents, no cheap CGI look, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张高级腕表 campaign 图，重点体现工艺、金属打磨和精密感。
+资产类型：高端腕表发布的商业主视觉。
+场景：深石墨色摄影棚背景，搭配弧形拉丝金属底座和克制的阴影层次。
+主体：一只高端腕表作为主角，表壳、表链、表盘纹理和表冠都要清楚呈现。
+构图：紧凑 hero 构图，三分之四角度，腕表在画面中占据主导，像奢侈腕表平面广告。
+光线：方向性受控布光，金属高光利落，反差克制，表盘反射精致。
+材质与风格：拉丝钢、抛光切面、蓝宝石镜面、精细表盘纹理，整体偏单色高奢调性。
+约束：不要模特，不要手腕，不要文字，不要 logo，不要第二只表，不要跳脱色彩，不要廉价 CGI 感，不要水印。
+```
+
+### 9. Premium Headphones Sculptural Hero
+
+适用场景：消费电子发布视觉、高端音频首页 hero、投放静态图  
+完整文件：[prompts/consumer-tech/premium-headphones-sculptural-hero.md](./prompts/consumer-tech/premium-headphones-sculptural-hero.md)
+
+![Premium Headphones Sculptural Hero](./assets/examples/premium-headphones-sculptural-hero.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create a premium consumer-tech hero image that feels sculptural, modern, and commercially polished.
+Asset: Launch visual for flagship over-ear headphones.
+Scene: Minimal stone-and-metal set with a soft gradient backdrop and a pedestal that feels like industrial sculpture.
+Subject: One pair of over-ear headphones as the hero product, with the headband, earcups, and material finish clearly visible.
+Composition: Three-quarter hero angle, product large in frame, elegant negative space, luxury-tech campaign balance.
+Lighting: Soft but directional studio light with metallic edge highlights and premium shadow definition.
+Materials and styling: Anodized metal, matte polymer, soft leather cushions, restrained graphite and silver palette.
+Constraints: No logo, no text, no person, no floating cable clutter, no extra devices, no exaggerated neon effects, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张高级消费电子主视觉，让产品既像雕塑，又具备商业广告完成度。
+资产类型：旗舰头戴式耳机发布视觉。
+场景：极简石材与金属组合场景，柔和渐变背景，底座像工业雕塑。
+主体：一副头戴式耳机作为唯一主角，头梁、耳罩和表面材质需要清楚可见。
+构图：三分之四 hero 角度，产品占比大，留白优雅，整体像高端科技品牌 campaign。
+光线：柔和但有方向性的棚拍光，边缘金属高光清晰，阴影有层次。
+材质与风格：阳极氧化金属、哑光聚合物、柔软皮革耳垫，石墨灰与银色调克制高级。
+约束：不要 logo，不要文字，不要人物，不要杂乱线缆，不要多余设备，不要夸张霓虹特效，不要水印。
+```
+
+### 10. Boutique Hotel Lobby Editorial
+
+适用场景：酒店品牌 campaign、品牌提案封面图、精品酒店首页 hero  
+完整文件：[prompts/hospitality/boutique-hotel-lobby-editorial.md](./prompts/hospitality/boutique-hotel-lobby-editorial.md)
+
+![Boutique Hotel Lobby Editorial](./assets/examples/boutique-hotel-lobby-editorial.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create a boutique-hotel campaign image that feels intentional, warm, and editorial rather than generic real estate photography.
+Asset: Hospitality brand hero image.
+Scene: Sophisticated hotel lobby with curated furniture, sculptural lighting, stone flooring, and warm evening ambience.
+Subject: The lobby itself as the hero environment, with one central seating vignette and a clear sense of premium hospitality.
+Composition: Wide but intimate framing, layered depth, balanced symmetry, usable negative space for campaign copy.
+Lighting: Warm architectural lighting mixed with soft natural dusk spill, cinematic but believable.
+Materials and styling: Walnut wood, travertine, boucle upholstery, brushed brass, textured plaster walls, refined boutique styling.
+Constraints: No readable signage, no visible brand marks, no crowd, no messy reception desk, no distortion, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张精品酒店品牌视觉图，气质要克制、温暖、有编辑感，而不是普通地产照片。
+资产类型：酒店品牌首页 hero 或品牌提案封面图。
+场景：精致的酒店大堂，带策展感家具、雕塑灯具、石材地面和温暖的傍晚氛围。
+主体：大堂空间本身作为主角，中间有一个清晰的会客区场景，传达高端 hospitality 感。
+构图：宽画幅但有亲密感，空间层次清楚，构图平衡，预留文案留白。
+光线：建筑暖光与傍晚自然光混合，电影感但可信。
+材质与风格：胡桃木、洞石、羊羔绒面料、拉丝黄铜、肌理灰泥墙面，整体像精品酒店品牌 campaign。
+约束：不要可读标识，不要品牌 logo，不要拥挤人群，不要凌乱前台，不要透视畸变，不要水印。
+```
+
 ## 更多双语案例
 
 - Beauty: [Clinical Beauty Dropper Detail](./prompts/beauty/clinical-beauty-dropper-detail.md)
@@ -243,6 +393,12 @@ Constraints: No people, no text, no logo, no clutter, no extra appliances, no un
 - Food & Beverage: [Clean Supplement Packshot](./prompts/food-beverage/clean-supplement-packshot.md), [Organic Coffee Lifestyle Pour](./prompts/food-beverage/organic-coffee-lifestyle-pour.md)
 - Home & Living: [Minimal Bedding Hero](./prompts/home-living/minimal-bedding-hero.md), [Scandinavian Chair Lifestyle](./prompts/home-living/scandinavian-chair-lifestyle.md)
 - Jewelry: [Bridal Ring Macro Detail](./prompts/jewelry/bridal-ring-macro-detail.md)
+- 腕表： [Luxury Watch Macro Campaign](./prompts/watches/luxury-watch-macro-campaign.md)
+- 香氛： [Fine Fragrance Obsidian Hero](./prompts/fragrance/fine-fragrance-obsidian-hero.md)
+- 消费电子： [Premium Headphones Sculptural Hero](./prompts/consumer-tech/premium-headphones-sculptural-hero.md), [Flagship Smartphone Cinematic Launch](./prompts/consumer-tech/flagship-smartphone-cinematic-launch.md)
+- 汽车： [Luxury EV Night Showroom](./prompts/automotive/luxury-ev-night-showroom.md)
+- 酒店与餐饮： [Boutique Hotel Lobby Editorial](./prompts/hospitality/boutique-hotel-lobby-editorial.md), [Chef Tasting Menu Plating Campaign](./prompts/hospitality/chef-tasting-menu-plating-campaign.md)
+- 烈酒： [Premium Whisky Decanter Hero](./prompts/spirits/premium-whisky-decanter-hero.md)
 - Seasonal: [Summer Beverage Launch Banner](./prompts/seasonal-campaigns/summer-beverage-launch-banner.md), [Holiday Gift Box Hero](./prompts/seasonal-campaigns/holiday-gift-box-hero.md)
 
 ## 仓库结构
@@ -258,10 +414,11 @@ prompts/                 双语 prompt 文件
 
 我们更欢迎这些 prompt：
 
-- 对真实电商工作流有用
+- 对真实商业工作流有用
 - 复现性强，不是纯灵感句子
 - 同时提供英文和中文版本
 - 约束条件明确
 - 视觉强但不沦为泛化 AI 图
+- 既能服务转化，也能服务品牌建设
 
 提交前请先阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)。

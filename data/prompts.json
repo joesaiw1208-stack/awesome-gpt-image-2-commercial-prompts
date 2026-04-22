@@ -174,5 +174,93 @@
     "languages": ["en", "zh-CN"],
     "featured": false,
     "example_image": "assets/examples/holiday-gift-box-hero.png"
+  },
+  {
+    "slug": "fine-fragrance-obsidian-hero",
+    "category": "fragrance",
+    "title": "Fine Fragrance Obsidian Hero",
+    "title_zh": "黑曜石香氛主视觉",
+    "use_case": "premium fragrance launch visual",
+    "asset_type": "luxury fragrance hero image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/fine-fragrance-obsidian-hero.png"
+  },
+  {
+    "slug": "premium-headphones-sculptural-hero",
+    "category": "consumer-tech",
+    "title": "Premium Headphones Sculptural Hero",
+    "title_zh": "高端耳机雕塑感主视觉",
+    "use_case": "premium audio launch visual",
+    "asset_type": "consumer tech hero image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/premium-headphones-sculptural-hero.png"
+  },
+  {
+    "slug": "flagship-smartphone-cinematic-launch",
+    "category": "consumer-tech",
+    "title": "Flagship Smartphone Cinematic Launch",
+    "title_zh": "旗舰手机电影感发布图",
+    "use_case": "smartphone launch campaign visual",
+    "asset_type": "consumer tech campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "luxury-watch-macro-campaign",
+    "category": "watches",
+    "title": "Luxury Watch Macro Campaign",
+    "title_zh": "高级腕表微距 Campaign 图",
+    "use_case": "premium watch launch visual",
+    "asset_type": "luxury watch campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/luxury-watch-macro-campaign.png"
+  },
+  {
+    "slug": "luxury-ev-night-showroom",
+    "category": "automotive",
+    "title": "Luxury EV Night Showroom",
+    "title_zh": "高端电车夜景展厅图",
+    "use_case": "automotive brand launch visual",
+    "asset_type": "automotive campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "boutique-hotel-lobby-editorial",
+    "category": "hospitality",
+    "title": "Boutique Hotel Lobby Editorial",
+    "title_zh": "精品酒店大堂编辑图",
+    "use_case": "hospitality brand hero visual",
+    "asset_type": "space campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/boutique-hotel-lobby-editorial.png"
+  },
+  {
+    "slug": "chef-tasting-menu-plating-campaign",
+    "category": "hospitality",
+    "title": "Chef Tasting Menu Plating Campaign",
+    "title_zh": "主厨品鉴菜单摆盘 Campaign 图",
+    "use_case": "restaurant tasting menu visual",
+    "asset_type": "restaurant campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "premium-whisky-decanter-hero",
+    "category": "spirits",
+    "title": "Premium Whisky Decanter Hero",
+    "title_zh": "高端威士忌酒樽主视觉",
+    "use_case": "premium spirits launch visual",
+    "asset_type": "spirits hero image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
   }
 ]
