@@ -1,5 +1,7 @@
 # Awesome GPT-Image-2 E-Commerce Prompts
 
+English | [简体中文](./README.zh-CN.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 [![Prompt Count](https://img.shields.io/badge/prompts-12-blue.svg)](./prompts)
