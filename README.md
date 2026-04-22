@@ -178,7 +178,7 @@ Constraints: No logo, no readable text, no extra shoes, no feet, no laces flying
 Use case: jewelry launch campaign, homepage hero, premium social ad  
 Full file: [prompts/jewelry/luxury-jewelry-campaign.md](./prompts/jewelry/luxury-jewelry-campaign.md)
 
-![Luxury Jewelry Campaign](./assets/examples/luxury-jewelry-campaign.png)
+![Luxury Jewelry Campaign](./assets/examples/luxury-jewelry-campaign-necklace.png)
 
 **Prompt (EN)**
 

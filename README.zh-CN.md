@@ -175,7 +175,7 @@ Constraints: No logo, no readable text, no extra shoes, no feet, no laces flying
 适用场景：珠宝发布 campaign、首页 hero、社媒高端广告  
 完整文件：[prompts/jewelry/luxury-jewelry-campaign.md](./prompts/jewelry/luxury-jewelry-campaign.md)
 
-![Luxury Jewelry Campaign](./assets/examples/luxury-jewelry-campaign.png)
+![Luxury Jewelry Campaign](./assets/examples/luxury-jewelry-campaign-necklace.png)
 
 **Prompt (EN)**
 
