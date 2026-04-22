@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "luxury-skincare-hero",
+    "category": "beauty",
+    "title": "Luxury Skincare Hero",
+    "use_case": "premium skincare launch visual",
+    "asset_type": "photorealistic e-commerce hero image",
+    "example_image": "assets/examples/luxury-skincare-hero.png"
+  },
+  {
+    "slug": "clean-supplement-packshot",
+    "category": "food-beverage",
+    "title": "Clean Supplement Packshot",
+    "use_case": "marketplace listing image",
+    "asset_type": "photorealistic packshot",
+    "example_image": "assets/examples/clean-supplement-packshot.png"
+  },
+  {
+    "slug": "luxury-jewelry-campaign",
+    "category": "jewelry",
+    "title": "Luxury Jewelry Campaign",
+    "use_case": "premium jewelry launch visual",
+    "asset_type": "luxury campaign visual",
+    "example_image": "assets/examples/luxury-jewelry-campaign.png"
+  },
+  {
+    "slug": "summer-beverage-launch-banner",
+    "category": "seasonal-campaigns",
+    "title": "Summer Beverage Launch Banner",
+    "use_case": "seasonal beverage launch",
+    "asset_type": "lifestyle launch banner",
+    "example_image": "assets/examples/summer-beverage-launch-banner.png"
+  },
+  {
+    "slug": "editorial-fashion-flatlay",
+    "category": "fashion",
+    "title": "Editorial Fashion Flatlay",
+    "use_case": "fashion collection launch",
+    "asset_type": "flatlay campaign visual",
+    "example_image": ""
+  },
+  {
+    "slug": "scandinavian-chair-lifestyle",
+    "category": "home-living",
+    "title": "Scandinavian Chair Lifestyle",
+    "use_case": "furniture PDP hero",
+    "asset_type": "lifestyle interior product image",
+    "example_image": ""
+  },
+  {
+    "slug": "clinical-beauty-dropper-detail",
+    "category": "beauty",
+    "title": "Clinical Beauty Dropper Detail",
+    "use_case": "skincare close-up campaign visual",
+    "asset_type": "macro beauty product detail image",
+    "example_image": ""
+  },
+  {
+    "slug": "streetwear-on-model-launch",
+    "category": "fashion",
+    "title": "Streetwear On-Model Launch",
+    "use_case": "streetwear drop campaign visual",
+    "asset_type": "on-model fashion campaign image",
+    "example_image": ""
+  },
+  {
+    "slug": "organic-coffee-lifestyle-pour",
+    "category": "food-beverage",
+    "title": "Organic Coffee Lifestyle Pour",
+    "use_case": "coffee brand launch",
+    "asset_type": "lifestyle beverage campaign image",
+    "example_image": ""
+  },
+  {
+    "slug": "minimal-bedding-hero",
+    "category": "home-living",
+    "title": "Minimal Bedding Hero",
+    "use_case": "bedding collection hero",
+    "asset_type": "interior bedding campaign image",
+    "example_image": ""
+  },
+  {
+    "slug": "bridal-ring-macro-detail",
+    "category": "jewelry",
+    "title": "Bridal Ring Macro Detail",
+    "use_case": "ring PDP secondary image",
+    "asset_type": "jewelry macro detail image",
+    "example_image": ""
+  },
+  {
+    "slug": "holiday-gift-box-hero",
+    "category": "seasonal-campaigns",
+    "title": "Holiday Gift Box Hero",
+    "use_case": "holiday gifting campaign image",
+    "asset_type": "seasonal gifting campaign image",
+    "example_image": ""
+  }
+]
