@@ -6,7 +6,10 @@
     "title_zh": "高端护肤主视觉",
     "use_case": "premium skincare launch visual",
     "asset_type": "hero banner",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/luxury-skincare-hero.png"
   },
@@ -17,9 +20,12 @@
     "title_zh": "临床感精华滴管微距",
     "use_case": "skincare close-up campaign visual",
     "asset_type": "macro detail image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/clinical-beauty-dropper-detail.png"
   },
   {
     "slug": "clean-supplement-packshot",
@@ -28,7 +34,10 @@
     "title_zh": "干净营养补剂 Packshot",
     "use_case": "marketplace listing image",
     "asset_type": "packshot",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
     "example_image": "assets/examples/clean-supplement-packshot.png"
   },
@@ -39,7 +48,10 @@
     "title_zh": "电商组合装 Packshot",
     "use_case": "bundle marketplace image",
     "asset_type": "bundle packshot",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/marketplace-bundle-packshot.png"
   },
@@ -50,9 +62,12 @@
     "title_zh": "有机咖啡生活方式倒液图",
     "use_case": "coffee brand launch",
     "asset_type": "lifestyle beverage image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/organic-coffee-lifestyle-pour.png"
   },
   {
     "slug": "editorial-fashion-flatlay",
@@ -61,9 +76,12 @@
     "title_zh": "时尚平铺编辑图",
     "use_case": "fashion collection launch",
     "asset_type": "flatlay campaign visual",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/editorial-fashion-flatlay.png"
   },
   {
     "slug": "streetwear-on-model-launch",
@@ -72,7 +90,10 @@
     "title_zh": "街头服饰上身发布图",
     "use_case": "streetwear drop campaign visual",
     "asset_type": "on-model campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/streetwear-on-model-launch.png"
   },
@@ -83,7 +104,10 @@
     "title_zh": "鞋履悬浮主视觉",
     "use_case": "sneaker launch visual",
     "asset_type": "footwear hero image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/footwear-floating-hero.png"
   },
@@ -94,9 +118,12 @@
     "title_zh": "高端手袋陈列主视觉",
     "use_case": "luxury handbag launch visual",
     "asset_type": "handbag hero image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/luxury-handbag-shelf-hero.png"
   },
   {
     "slug": "minimal-bedding-hero",
@@ -105,7 +132,10 @@
     "title_zh": "极简床品主视觉",
     "use_case": "bedding collection hero",
     "asset_type": "interior hero image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
     "example_image": "assets/examples/minimal-bedding-hero.png"
   },
@@ -116,9 +146,12 @@
     "title_zh": "北欧单椅生活方式图",
     "use_case": "furniture PDP hero",
     "asset_type": "lifestyle interior image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/scandinavian-chair-lifestyle.png"
   },
   {
     "slug": "kitchen-appliance-countertop-demo",
@@ -127,7 +160,10 @@
     "title_zh": "厨房小家电台面场景图",
     "use_case": "kitchen appliance lifestyle image",
     "asset_type": "countertop demo image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/kitchen-appliance-countertop-demo.png"
   },
@@ -138,7 +174,10 @@
     "title_zh": "高级珠宝 Campaign 图",
     "use_case": "premium jewelry launch visual",
     "asset_type": "luxury campaign visual",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/luxury-jewelry-campaign-necklace.png"
   },
@@ -149,9 +188,12 @@
     "title_zh": "婚戒微距细节图",
     "use_case": "ring PDP secondary image",
     "asset_type": "jewelry macro detail image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/bridal-ring-macro-detail.png"
   },
   {
     "slug": "summer-beverage-launch-banner",
@@ -160,7 +202,10 @@
     "title_zh": "夏季饮料上新横幅",
     "use_case": "seasonal beverage launch",
     "asset_type": "lifestyle launch banner",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
     "example_image": "assets/examples/summer-beverage-launch-banner.png"
   },
@@ -171,7 +216,10 @@
     "title_zh": "节日礼盒主视觉",
     "use_case": "holiday gifting campaign image",
     "asset_type": "seasonal gifting campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
     "example_image": "assets/examples/holiday-gift-box-hero.png"
   },
@@ -182,7 +230,10 @@
     "title_zh": "黑曜石香氛主视觉",
     "use_case": "premium fragrance launch visual",
     "asset_type": "luxury fragrance hero image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/fine-fragrance-obsidian-hero.png"
   },
@@ -193,7 +244,10 @@
     "title_zh": "高端耳机雕塑感主视觉",
     "use_case": "premium audio launch visual",
     "asset_type": "consumer tech hero image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/premium-headphones-sculptural-hero.png"
   },
@@ -204,9 +258,12 @@
     "title_zh": "旗舰手机电影感发布图",
     "use_case": "smartphone launch campaign visual",
     "asset_type": "consumer tech campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/flagship-smartphone-cinematic-launch.png"
   },
   {
     "slug": "luxury-watch-macro-campaign",
@@ -215,7 +272,10 @@
     "title_zh": "高级腕表微距 Campaign 图",
     "use_case": "premium watch launch visual",
     "asset_type": "luxury watch campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/luxury-watch-macro-campaign.png"
   },
@@ -226,9 +286,12 @@
     "title_zh": "高端电车夜景展厅图",
     "use_case": "automotive brand launch visual",
     "asset_type": "automotive campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/luxury-ev-night-showroom.png"
   },
   {
     "slug": "boutique-hotel-lobby-editorial",
@@ -237,7 +300,10 @@
     "title_zh": "精品酒店大堂编辑图",
     "use_case": "hospitality brand hero visual",
     "asset_type": "space campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/boutique-hotel-lobby-editorial.png"
   },
@@ -248,9 +314,12 @@
     "title_zh": "主厨品鉴菜单摆盘 Campaign 图",
     "use_case": "restaurant tasting menu visual",
     "asset_type": "restaurant campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/chef-tasting-menu-plating-campaign.png"
   },
   {
     "slug": "premium-whisky-decanter-hero",
@@ -259,9 +328,12 @@
     "title_zh": "高端威士忌酒樽主视觉",
     "use_case": "premium spirits launch visual",
     "asset_type": "spirits hero image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/premium-whisky-decanter-hero.png"
   },
   {
     "slug": "haute-jewelry-maison-salon",
@@ -270,7 +342,10 @@
     "title_zh": "高珠 Maison 沙龙主视觉",
     "use_case": "maison-style high jewelry collection visual",
     "asset_type": "luxury jewelry campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/haute-jewelry-maison-salon.png"
   },
@@ -281,7 +356,10 @@
     "title_zh": "传承皮具 Maison 主视觉",
     "use_case": "luxury leather goods maison visual",
     "asset_type": "luxury leather goods campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/heritage-leather-goods-maison-hero.png"
   },
@@ -292,7 +370,10 @@
     "title_zh": "午夜制表 Maison 工坊图",
     "use_case": "luxury watch maison campaign visual",
     "asset_type": "luxury horology campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/horology-maison-midnight-atelier.png"
   },
@@ -303,7 +384,10 @@
     "title_zh": "夜色高定香氛系列",
     "use_case": "luxury fragrance maison campaign visual",
     "asset_type": "luxury fragrance campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/haute-parfum-nocturne-series.png"
   },
@@ -314,7 +398,10 @@
     "title_zh": "户外广告品牌占位主视觉",
     "use_case": "out-of-home commercial launch visual",
     "asset_type": "billboard campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/ooh-billboard-brand-takeover.png"
   },
@@ -325,7 +412,10 @@
     "title_zh": "编辑拼贴 Campaign Board",
     "use_case": "brand moodboard or collection launch visual",
     "asset_type": "editorial collage campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/editorial-collage-campaign-board.png"
   },
@@ -336,7 +426,10 @@
     "title_zh": "包装开箱 Reveal 图",
     "use_case": "premium packaging reveal visual",
     "asset_type": "unboxing campaign image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": true,
     "example_image": "assets/examples/packaging-unboxing-reveal.png"
   },
@@ -347,9 +440,12 @@
     "title_zh": "尺寸对比说明图",
     "use_case": "size education visual",
     "asset_type": "explainer image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/scale-comparison-explainer.png"
   },
   {
     "slug": "social-story-launch-frame",
@@ -358,9 +454,12 @@
     "title_zh": "社媒 Story 发布版式",
     "use_case": "vertical paid social launch visual",
     "asset_type": "mobile-first story image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/social-story-launch-frame.png"
   },
   {
     "slug": "lookbook-collection-grid",
@@ -369,9 +468,12 @@
     "title_zh": "系列 Lookbook 网格图",
     "use_case": "collection landing page or lookbook visual",
     "asset_type": "lookbook image system",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/lookbook-collection-grid.png"
   },
   {
     "slug": "conversion-promo-banner",
@@ -380,9 +482,12 @@
     "title_zh": "高转化促销横幅图",
     "use_case": "conversion-focused promotion visual",
     "asset_type": "sale banner image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/conversion-promo-banner.png"
   },
   {
     "slug": "trust-proof-case-study-visual",
@@ -391,9 +496,12 @@
     "title_zh": "信任背书案例视觉图",
     "use_case": "credibility-building case study visual",
     "asset_type": "trust proof image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/trust-proof-case-study-visual.png"
   },
   {
     "slug": "knowledge-infographic-editorial",
@@ -402,8 +510,11 @@
     "title_zh": "知识型编辑信息图",
     "use_case": "educational brand content visual",
     "asset_type": "editorial infographic image",
-    "languages": ["en", "zh-CN"],
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
     "featured": false,
-    "example_image": ""
+    "example_image": "assets/examples/knowledge-infographic-editorial.png"
   }
 ]
