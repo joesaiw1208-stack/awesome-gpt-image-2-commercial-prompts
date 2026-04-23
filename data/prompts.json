@@ -516,5 +516,89 @@
     ],
     "featured": false,
     "example_image": "assets/examples/knowledge-infographic-editorial.png"
+  },
+  {
+    "slug": "fragrance-editorial-landing-page",
+    "category": "commercial-formats",
+    "title": "Fragrance Editorial Landing Page",
+    "title_zh": "香氛编辑式落地页",
+    "use_case": "brand landing page concept",
+    "asset_type": "website mockup screenshot",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/fragrance-editorial-landing-page.png"
+  },
+  {
+    "slug": "brand-typography-launch-poster",
+    "category": "commercial-formats",
+    "title": "Brand Typography Launch Poster",
+    "title_zh": "品牌排版发布海报",
+    "use_case": "campaign announcement poster",
+    "asset_type": "4:5 social poster",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/brand-typography-launch-poster.png"
+  },
+  {
+    "slug": "mobile-shopping-app-homepage",
+    "category": "commercial-formats",
+    "title": "Mobile Shopping App Homepage",
+    "title_zh": "移动电商首页截图",
+    "use_case": "ecommerce app concept",
+    "asset_type": "mobile UI screenshot",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/mobile-shopping-app-homepage.png"
+  },
+  {
+    "slug": "product-carousel-storyboard",
+    "category": "commercial-formats",
+    "title": "Product Carousel Storyboard",
+    "title_zh": "产品轮播故事板",
+    "use_case": "multi-product campaign storyboard",
+    "asset_type": "carousel concept image",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/product-carousel-storyboard.png"
+  },
+  {
+    "slug": "boot-craftsmanship-vertical-launch",
+    "category": "fashion",
+    "title": "Boot Craftsmanship Vertical Launch",
+    "title_zh": "皮靴工艺竖版发布图",
+    "use_case": "vertical footwear brand campaign",
+    "asset_type": "9:16 or 4:5 social ad",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/boot-craftsmanship-vertical-launch.png"
+  },
+  {
+    "slug": "luxury-editorial-bookshelf-scene",
+    "category": "home-living",
+    "title": "Luxury Editorial Bookshelf Scene",
+    "title_zh": "高端编辑感书架场景",
+    "use_case": "home decor editorial visual",
+    "asset_type": "interior lifestyle image",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/luxury-editorial-bookshelf-scene.png"
   }
 ]
