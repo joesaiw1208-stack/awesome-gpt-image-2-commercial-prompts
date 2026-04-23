@@ -372,5 +372,38 @@
     "languages": ["en", "zh-CN"],
     "featured": false,
     "example_image": ""
+  },
+  {
+    "slug": "conversion-promo-banner",
+    "category": "commercial-formats",
+    "title": "Conversion Promo Banner",
+    "title_zh": "高转化促销横幅图",
+    "use_case": "conversion-focused promotion visual",
+    "asset_type": "sale banner image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "trust-proof-case-study-visual",
+    "category": "commercial-formats",
+    "title": "Trust Proof Case Study Visual",
+    "title_zh": "信任背书案例视觉图",
+    "use_case": "credibility-building case study visual",
+    "asset_type": "trust proof image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "knowledge-infographic-editorial",
+    "category": "commercial-formats",
+    "title": "Knowledge Infographic Editorial",
+    "title_zh": "知识型编辑信息图",
+    "use_case": "educational brand content visual",
+    "asset_type": "editorial infographic image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
   }
 ]

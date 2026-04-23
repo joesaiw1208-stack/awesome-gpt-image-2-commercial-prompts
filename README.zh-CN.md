@@ -3,7 +3,7 @@
 [English](./README.md) | 简体中文
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-34-blue.svg)](./prompts)
+[![Prompts](https://img.shields.io/badge/prompts-37-blue.svg)](./prompts)
 [![Featured Gallery](https://img.shields.io/badge/featured-17-gold.svg)](./README.zh-CN.md#精选案例画廊)
 [![Languages](https://img.shields.io/badge/prompt_languages-EN%20%7C%20ZH-green.svg)](./README.md)
 
@@ -551,12 +551,64 @@ Constraints: No flowers, no model, no hands, no text, no logo, no liquid splashe
 
 ![OOH Billboard Brand Takeover](./assets/examples/ooh-billboard-brand-takeover.png)
 
+**Prompt (EN)**
+
+```text
+Goal: Create a commercial out-of-home campaign visual that feels bold, premium, and scalable beyond a product page.
+Asset: Billboard or large-format brand takeover visual for a premium launch.
+Scene: A real urban streetscape or transit environment featuring one dominant billboard or wall placement, with the ad itself as the visual hero.
+Subject: One signature product or brand object enlarged into a graphic-led campaign visual with a strong silhouette and room for headline placement.
+Composition: Wide composition, billboard clearly readable from a distance, ad area dominant, surrounding environment supportive but not distracting.
+Lighting: Natural city light or cinematic dusk light depending on the setting, with believable environmental reflections and shadows.
+Materials and styling: Premium campaign art direction, bold negative space, clean graphic hierarchy, retail-ready polish.
+Constraints: No existing brand logos, no readable trademarked ads in the surroundings, no cluttered street chaos, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张适合户外广告或大幅品牌投放的商业视觉，而不是普通产品页图片。
+资产类型：高端新品发布的 billboard / 大型品牌占位主视觉。
+场景：真实城市街道、地铁或商业空间里出现一个主导性的广告位，广告画面本身必须是视觉主角。
+主体：一个标志性产品或品牌物件被放大处理成图形化 campaign 视觉，轮廓强烈，并为标题留出空间。
+构图：宽画幅，广告位远看也足够明确，广告区域占主导，周边环境只做衬托不过度抢戏。
+光线：根据场景使用自然城市光或电影感傍晚光，环境反射和阴影要可信。
+材质与风格：高级 campaign art direction，大块留白，清晰图形层级，具备零售传播完成度。
+约束：不要出现现成品牌 logo，不要出现可读的第三方广告，不要杂乱街景，不要水印。
+```
+
 ### 16. Editorial Collage Campaign Board
 
 适用场景：campaign moodboard、系列发布板、品牌 deck 封面图  
 完整文件：[prompts/commercial-formats/editorial-collage-campaign-board.md](./prompts/commercial-formats/editorial-collage-campaign-board.md)
 
 ![Editorial Collage Campaign Board](./assets/examples/editorial-collage-campaign-board.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create an editorial commercial collage that feels like a real campaign board, not a single product shot.
+Asset: Mood-setting launch visual for a premium brand presentation or campaign reveal.
+Scene: A layered collage system combining cropped product imagery, material textures, atmospheric scene fragments, and clean graphic pacing.
+Subject: One hero product family supported by close-up detail crops, contextual lifestyle fragments, and abstract material references.
+Composition: Asymmetrical multi-panel layout with intentional overlap, varied crop scale, editorial whitespace, and strong visual rhythm.
+Lighting: Consistent premium photographic lighting across all image fragments, even if the collage includes multiple panels.
+Materials and styling: Magazine-editorial design language, tactile textures, matte paper feel, controlled luxury palette, high-end campaign board finish.
+Constraints: No chaotic scrapbook look, no childish stickers, no obvious brand imitation, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张真正像品牌 campaign board 的编辑拼贴图，而不是单张商品展示图。
+资产类型：高端品牌提案、系列发布或创意定调用的 moodboard 主视觉。
+场景：由裁切产品图、材质纹理、氛围场景碎片和克制图形节奏组成的多层拼贴系统。
+主体：一个核心产品家族作为主线，搭配局部细节、生活方式碎片和抽象材质参考。
+构图：不对称多模块布局，允许适度重叠，裁切尺度有变化，留白有编辑感，整体节奏强。
+光线：即使是多张碎片画面，也要保持统一的高级摄影光感。
+材质与风格：杂志级编辑设计语言、可触感纹理、哑光纸面气质、克制高端配色，像真实 campaign 提案板。
+约束：不要混乱手账风，不要幼稚贴纸，不要明显模仿具体品牌，不要水印。
+```
 
 ### 17. Packaging Unboxing Reveal
 
@@ -565,10 +617,36 @@ Constraints: No flowers, no model, no hands, no text, no logo, no liquid splashe
 
 ![Packaging Unboxing Reveal](./assets/examples/packaging-unboxing-reveal.png)
 
+**Prompt (EN)**
+
+```text
+Goal: Create a premium packaging reveal image that captures the ritual and anticipation of opening a product.
+Asset: Social campaign or launch visual focused on unboxing.
+Scene: Refined tabletop or soft luxury interior with the product box partially opened, layered packaging components visible, and a curated sense of sequence.
+Subject: One premium product with its packaging, inserts, wrapping, or tray system presented as a reveal rather than a flat product display.
+Composition: Three-quarter or top-down angle, enough depth to show packaging architecture, product reveal, and premium details in one frame.
+Lighting: Soft directional light with tactile highlights on paper, ribbon, lacquer, or metal details.
+Materials and styling: Structured packaging, tissue or sleeve details, refined paper textures, gift-worthy finish, modern premium color palette.
+Constraints: No hands, no readable logo, no messy tearing, no cheap subscription-box feel, no clutter, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张强调开箱仪式感和期待感的包装 reveal 图，而不是普通商品摆拍。
+资产类型：新品发布或社媒传播用的 unboxing 主视觉。
+场景：精致桌面或柔和高端室内环境，产品盒半打开，包装层级、内托和配件关系清楚可见。
+主体：一个高端产品连同包装、内衬、包裹结构一起呈现，重点是“揭示过程”而不是平铺展示。
+构图：三分之四角度或俯拍角度，既能看到包装结构，也能看到产品本体和高级细节。
+光线：柔和方向性布光，让纸张、缎带、漆面或金属边缘都具备触感。
+材质与风格：结构化包装、薄纸或套封细节、精致纸面纹理、礼赠感完成度、现代高级配色。
+约束：不要手，不要可读 logo，不要凌乱撕扯感，不要廉价订阅盒风格，不要杂乱，不要水印。
+```
+
 ## 更多双语案例
 
 - Beauty: [Clinical Beauty Dropper Detail](./prompts/beauty/clinical-beauty-dropper-detail.md)
-- Commercial Formats: [Scale Comparison Explainer](./prompts/commercial-formats/scale-comparison-explainer.md), [Social Story Launch Frame](./prompts/commercial-formats/social-story-launch-frame.md), [Lookbook Collection Grid](./prompts/commercial-formats/lookbook-collection-grid.md)
+- Commercial Formats: [Scale Comparison Explainer](./prompts/commercial-formats/scale-comparison-explainer.md), [Social Story Launch Frame](./prompts/commercial-formats/social-story-launch-frame.md), [Lookbook Collection Grid](./prompts/commercial-formats/lookbook-collection-grid.md), [Conversion Promo Banner](./prompts/commercial-formats/conversion-promo-banner.md), [Trust Proof Case Study Visual](./prompts/commercial-formats/trust-proof-case-study-visual.md), [Knowledge Infographic Editorial](./prompts/commercial-formats/knowledge-infographic-editorial.md)
 - Fashion: [Editorial Fashion Flatlay](./prompts/fashion/editorial-fashion-flatlay.md), [Luxury Handbag Shelf Hero](./prompts/fashion/luxury-handbag-shelf-hero.md), [Heritage Leather Goods Maison Hero](./prompts/fashion/heritage-leather-goods-maison-hero.md)
 - Food & Beverage: [Clean Supplement Packshot](./prompts/food-beverage/clean-supplement-packshot.md), [Organic Coffee Lifestyle Pour](./prompts/food-beverage/organic-coffee-lifestyle-pour.md)
 - Home & Living: [Minimal Bedding Hero](./prompts/home-living/minimal-bedding-hero.md), [Scandinavian Chair Lifestyle](./prompts/home-living/scandinavian-chair-lifestyle.md)
