@@ -12,6 +12,7 @@
 ## 快速导航
 
 - [精选案例画廊](#精选案例画廊)
+- [全量预览索引](#全量预览索引)
 - [按行业浏览](./docs/by-industry.md)
 - [按用途浏览](./docs/by-use-case.md)
 - [按格式浏览](./docs/by-format.md)
@@ -680,6 +681,112 @@ Constraints: No hands, no readable logo, no messy tearing, no cheap subscription
 - 酒店与餐饮： [Boutique Hotel Lobby Editorial](./prompts/hospitality/boutique-hotel-lobby-editorial.md), [Chef Tasting Menu Plating Campaign](./prompts/hospitality/chef-tasting-menu-plating-campaign.md)
 - 烈酒： [Premium Whisky Decanter Hero](./prompts/spirits/premium-whisky-decanter-hero.md)
 - Seasonal: [Summer Beverage Launch Banner](./prompts/seasonal-campaigns/summer-beverage-launch-banner.md), [Holiday Gift Box Hero](./prompts/seasonal-campaigns/holiday-gift-box-hero.md)
+
+## 全量预览索引
+
+这一部分更接近高 star `awesome` 提示词项目的首页风格：先高密度扫图，再进入具体 prompt 文件深读。
+
+### Beauty
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/luxury-skincare-hero.png" width="220" /> | [Luxury Skincare Hero](./prompts/beauty/luxury-skincare-hero.md) |
+| <img src="./assets/examples/clinical-beauty-dropper-detail.png" width="220" /> | [Clinical Beauty Dropper Detail](./prompts/beauty/clinical-beauty-dropper-detail.md) |
+
+### Food & Beverage
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/clean-supplement-packshot.png" width="220" /> | [Clean Supplement Packshot](./prompts/food-beverage/clean-supplement-packshot.md) |
+| <img src="./assets/examples/marketplace-bundle-packshot.png" width="220" /> | [Marketplace Bundle Packshot](./prompts/food-beverage/marketplace-bundle-packshot.md) |
+| <img src="./assets/examples/organic-coffee-lifestyle-pour.png" width="220" /> | [Organic Coffee Lifestyle Pour](./prompts/food-beverage/organic-coffee-lifestyle-pour.md) |
+
+### Fashion
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/editorial-fashion-flatlay.png" width="220" /> | [Editorial Fashion Flatlay](./prompts/fashion/editorial-fashion-flatlay.md) |
+| <img src="./assets/examples/streetwear-on-model-launch.png" width="220" /> | [Streetwear On-Model Launch](./prompts/fashion/streetwear-on-model-launch.md) |
+| <img src="./assets/examples/footwear-floating-hero.png" width="220" /> | [Footwear Floating Hero](./prompts/fashion/footwear-floating-hero.md) |
+| <img src="./assets/examples/luxury-handbag-shelf-hero.png" width="220" /> | [Luxury Handbag Shelf Hero](./prompts/fashion/luxury-handbag-shelf-hero.md) |
+| <img src="./assets/examples/heritage-leather-goods-maison-hero.png" width="220" /> | [Heritage Leather Goods Maison Hero](./prompts/fashion/heritage-leather-goods-maison-hero.md) |
+
+### Home & Living
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/minimal-bedding-hero.png" width="220" /> | [Minimal Bedding Hero](./prompts/home-living/minimal-bedding-hero.md) |
+| <img src="./assets/examples/scandinavian-chair-lifestyle.png" width="220" /> | [Scandinavian Chair Lifestyle](./prompts/home-living/scandinavian-chair-lifestyle.md) |
+| <img src="./assets/examples/kitchen-appliance-countertop-demo.png" width="220" /> | [Kitchen Appliance Countertop Demo](./prompts/home-living/kitchen-appliance-countertop-demo.md) |
+
+### Jewelry
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/luxury-jewelry-campaign-necklace.png" width="220" /> | [Luxury Jewelry Campaign](./prompts/jewelry/luxury-jewelry-campaign.md) |
+| <img src="./assets/examples/bridal-ring-macro-detail.png" width="220" /> | [Bridal Ring Macro Detail](./prompts/jewelry/bridal-ring-macro-detail.md) |
+| <img src="./assets/examples/haute-jewelry-maison-salon.png" width="220" /> | [Haute Jewelry Maison Salon](./prompts/jewelry/haute-jewelry-maison-salon.md) |
+
+### Fragrance
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/fine-fragrance-obsidian-hero.png" width="220" /> | [Fine Fragrance Obsidian Hero](./prompts/fragrance/fine-fragrance-obsidian-hero.md) |
+| <img src="./assets/examples/haute-parfum-nocturne-series.png" width="220" /> | [Haute Parfum Nocturne Series](./prompts/fragrance/haute-parfum-nocturne-series.md) |
+
+### Watches
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/luxury-watch-macro-campaign.png" width="220" /> | [Luxury Watch Macro Campaign](./prompts/watches/luxury-watch-macro-campaign.md) |
+| <img src="./assets/examples/horology-maison-midnight-atelier.png" width="220" /> | [Horology Maison Midnight Atelier](./prompts/watches/horology-maison-midnight-atelier.md) |
+
+### Consumer Tech
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/premium-headphones-sculptural-hero.png" width="220" /> | [Premium Headphones Sculptural Hero](./prompts/consumer-tech/premium-headphones-sculptural-hero.md) |
+| <img src="./assets/examples/flagship-smartphone-cinematic-launch.png" width="220" /> | [Flagship Smartphone Cinematic Launch](./prompts/consumer-tech/flagship-smartphone-cinematic-launch.md) |
+
+### Automotive
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/luxury-ev-night-showroom.png" width="220" /> | [Luxury EV Night Showroom](./prompts/automotive/luxury-ev-night-showroom.md) |
+
+### Hospitality
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/boutique-hotel-lobby-editorial.png" width="220" /> | [Boutique Hotel Lobby Editorial](./prompts/hospitality/boutique-hotel-lobby-editorial.md) |
+| <img src="./assets/examples/chef-tasting-menu-plating-campaign.png" width="220" /> | [Chef Tasting Menu Plating Campaign](./prompts/hospitality/chef-tasting-menu-plating-campaign.md) |
+
+### Spirits
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/premium-whisky-decanter-hero.png" width="220" /> | [Premium Whisky Decanter Hero](./prompts/spirits/premium-whisky-decanter-hero.md) |
+
+### Seasonal Campaigns
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/summer-beverage-launch-banner.png" width="220" /> | [Summer Beverage Launch Banner](./prompts/seasonal-campaigns/summer-beverage-launch-banner.md) |
+| <img src="./assets/examples/holiday-gift-box-hero.png" width="220" /> | [Holiday Gift Box Hero](./prompts/seasonal-campaigns/holiday-gift-box-hero.md) |
+
+### Commercial Formats
+
+| 预览 | Prompt |
+| --- | --- |
+| <img src="./assets/examples/ooh-billboard-brand-takeover.png" width="220" /> | [OOH Billboard Brand Takeover](./prompts/commercial-formats/ooh-billboard-brand-takeover.md) |
+| <img src="./assets/examples/editorial-collage-campaign-board.png" width="220" /> | [Editorial Collage Campaign Board](./prompts/commercial-formats/editorial-collage-campaign-board.md) |
+| <img src="./assets/examples/packaging-unboxing-reveal.png" width="220" /> | [Packaging Unboxing Reveal](./prompts/commercial-formats/packaging-unboxing-reveal.md) |
+| <img src="./assets/examples/scale-comparison-explainer.png" width="220" /> | [Scale Comparison Explainer](./prompts/commercial-formats/scale-comparison-explainer.md) |
+| <img src="./assets/examples/social-story-launch-frame.png" width="220" /> | [Social Story Launch Frame](./prompts/commercial-formats/social-story-launch-frame.md) |
+| <img src="./assets/examples/lookbook-collection-grid.png" width="220" /> | [Lookbook Collection Grid](./prompts/commercial-formats/lookbook-collection-grid.md) |
+| <img src="./assets/examples/conversion-promo-banner.png" width="220" /> | [Conversion Promo Banner](./prompts/commercial-formats/conversion-promo-banner.md) |
+| <img src="./assets/examples/trust-proof-case-study-visual.png" width="220" /> | [Trust Proof Case Study Visual](./prompts/commercial-formats/trust-proof-case-study-visual.md) |
+| <img src="./assets/examples/knowledge-infographic-editorial.png" width="220" /> | [Knowledge Infographic Editorial](./prompts/commercial-formats/knowledge-infographic-editorial.md) |
 
 ## 贡献标准
 
