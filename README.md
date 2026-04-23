@@ -9,7 +9,18 @@ English | [简体中文](./README.zh-CN.md)
 
 A bilingual, production-oriented prompt library for **GPT-Image-2**, focused on **commercial visuals**, **brand storytelling**, **campaign systems**, and **conversion-ready product imagery**.
 
-## What Changed
+## Quick Navigation
+
+- [Featured Gallery](#featured-gallery)
+- [Browse by Industry](./docs/by-industry.md)
+- [Browse by Use Case](./docs/by-use-case.md)
+- [Browse by Format](./docs/by-format.md)
+- [Prompt Writing Best Practices](./docs/gpt-image-2-best-practices.md)
+- [Commercial Image Type Research](./docs/commercial-image-types.md)
+- [Prompt Library Structure](./prompts/README.md)
+- [Contributing Guide](./CONTRIBUTING.md)
+
+## Why This Repo
 
 This repo is intentionally not a generic inspiration dump. It is built around practical commercial use cases:
 
@@ -43,6 +54,17 @@ This repo therefore covers both:
 
 - performance-oriented product imagery
 - brand-building commercial visuals
+
+## Repository Layout
+
+```text
+assets/examples/        Example outputs used in the gallery
+data/prompts.json       Machine-readable prompt catalog
+docs/                   Best practices, research notes, browse indexes
+prompts/                Bilingual prompt files, organized by industry
+```
+
+This structure is closer to strong `awesome` repositories: a concise root README, separate browse indexes, and a machine-readable catalog that can keep growing without making the homepage unusable.
 
 ## Verified Against OpenAI Guidance
 
@@ -666,15 +688,6 @@ Constraints: No hands, no readable logo, no messy tearing, no cheap subscription
 - Hospitality: [Boutique Hotel Lobby Editorial](./prompts/hospitality/boutique-hotel-lobby-editorial.md), [Chef Tasting Menu Plating Campaign](./prompts/hospitality/chef-tasting-menu-plating-campaign.md)
 - Spirits: [Premium Whisky Decanter Hero](./prompts/spirits/premium-whisky-decanter-hero.md)
 - Seasonal: [Summer Beverage Launch Banner](./prompts/seasonal-campaigns/summer-beverage-launch-banner.md), [Holiday Gift Box Hero](./prompts/seasonal-campaigns/holiday-gift-box-hero.md)
-
-## Repository Structure
-
-```text
-assets/examples/          Generated sample images
-docs/                    Prompting best-practice notes
-data/prompts.json        Prompt metadata
-prompts/                 Bilingual prompt files
-```
 
 ## Contribution Standard
 

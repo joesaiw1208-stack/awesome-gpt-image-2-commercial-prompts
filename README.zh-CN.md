@@ -9,7 +9,18 @@
 
 这是一个面向 **GPT-Image-2** 的双语 Prompt Gallery，专门服务于 **商业视觉**、**品牌叙事**、**营销 campaign** 和 **更接近转化目标的产品出图**。
 
-## 这个版本修了什么
+## 快速导航
+
+- [精选案例画廊](#精选案例画廊)
+- [按行业浏览](./docs/by-industry.md)
+- [按用途浏览](./docs/by-use-case.md)
+- [按格式浏览](./docs/by-format.md)
+- [Prompt 写法最佳实践](./docs/gpt-image-2-best-practices.zh-CN.md)
+- [商业图片类型调研](./docs/commercial-image-types.zh-CN.md)
+- [Prompt 目录结构说明](./prompts/README.md)
+- [贡献规范](./CONTRIBUTING.md)
+
+## 为什么这个仓库值得做
 
 这次重构的重点不是“再堆更多提示词”，而是把仓库修成更专业的开源产品：
 
@@ -35,6 +46,17 @@
 
 - 面向转化的商品与零售视觉
 - 面向品牌的商业 campaign 视觉
+
+## 仓库结构
+
+```text
+assets/examples/        示例图资产
+data/prompts.json       机器可读 Prompt 目录
+docs/                   最佳实践、调研与导航索引
+prompts/                按行业组织的双语 prompt 文件
+```
+
+这种结构更接近优秀的 `awesome` 项目：根 README 负责说明与导航，分类索引单独拆出，机器可读数据单独维护，仓库扩容后也不容易失控。
 
 ## 已按 OpenAI 官方建议校准
 
@@ -658,15 +680,6 @@ Constraints: No hands, no readable logo, no messy tearing, no cheap subscription
 - 酒店与餐饮： [Boutique Hotel Lobby Editorial](./prompts/hospitality/boutique-hotel-lobby-editorial.md), [Chef Tasting Menu Plating Campaign](./prompts/hospitality/chef-tasting-menu-plating-campaign.md)
 - 烈酒： [Premium Whisky Decanter Hero](./prompts/spirits/premium-whisky-decanter-hero.md)
 - Seasonal: [Summer Beverage Launch Banner](./prompts/seasonal-campaigns/summer-beverage-launch-banner.md), [Holiday Gift Box Hero](./prompts/seasonal-campaigns/holiday-gift-box-hero.md)
-
-## 仓库结构
-
-```text
-assets/examples/          示例图片
-docs/                    提示词最佳实践说明
-data/prompts.json        Prompt 元数据
-prompts/                 双语 prompt 文件
-```
 
 ## 贡献标准
 
