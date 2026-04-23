@@ -3,8 +3,8 @@
 [English](./README.md) | 简体中文
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-28-blue.svg)](./prompts)
-[![Featured Gallery](https://img.shields.io/badge/featured-14-gold.svg)](./README.zh-CN.md#精选案例画廊)
+[![Prompts](https://img.shields.io/badge/prompts-34-blue.svg)](./prompts)
+[![Featured Gallery](https://img.shields.io/badge/featured-17-gold.svg)](./README.zh-CN.md#精选案例画廊)
 [![Languages](https://img.shields.io/badge/prompt_languages-EN%20%7C%20ZH-green.svg)](./README.md)
 
 这是一个面向 **GPT-Image-2** 的双语 Prompt Gallery，专门服务于 **商业视觉**、**品牌叙事**、**营销 campaign** 和 **更接近转化目标的产品出图**。
@@ -53,6 +53,22 @@
 - 仓库整理版说明：[docs/gpt-image-2-best-practices.zh-CN.md](./docs/gpt-image-2-best-practices.zh-CN.md)
 
 说明：本仓库使用的模板是基于官方建议提炼出的工程化写法，不是 OpenAI 唯一允许的固定格式。
+
+## 为什么 ChatGPT 官方示例看起来不一样
+
+OpenAI 官方并没有规定唯一合法的 prompt 格式。
+
+实际使用里通常有 3 层：
+
+- 官方示例是在展示“哪些信息有帮助”
+- ChatGPT 在生成图片前，可能会先内部改写或扩展用户请求
+- 本仓库为了可复用、可翻译、可审阅，采用了更稳定的工程化模板
+
+所以你会看到官方示例常常像自然语言段落，而这个仓库更像结构化写法：
+
+`goal -> asset -> scene -> subject -> composition -> lighting -> materials -> constraints`
+
+这是一套适合商业团队协作的工作模板，不是在声称 OpenAI 只接受这一种格式。
 
 ## 精选案例画廊
 
@@ -522,9 +538,37 @@ Constraints: No flowers, no model, no hands, no text, no logo, no liquid splashe
 约束：不要花，不要模特，不要手，不要文字，不要 logo，不要液体飞溅，不要繁杂道具，不要廉价夜店感，不要水印。
 ```
 
+## 商业化格式扩展
+
+调研文档：[docs/commercial-image-types.zh-CN.md](./docs/commercial-image-types.zh-CN.md)
+
+这组新增案例针对的是真实商业发布里常见、但多数 prompt 仓库没有认真覆盖的格式：户外广告、编辑拼贴系统、开箱图、竖版 Story、尺寸说明图和 collection 网格图。
+
+### 15. OOH Billboard Brand Takeover
+
+适用场景：户外广告 mockup、发布主视觉、零售橱窗 campaign 概念图  
+完整文件：[prompts/commercial-formats/ooh-billboard-brand-takeover.md](./prompts/commercial-formats/ooh-billboard-brand-takeover.md)
+
+![OOH Billboard Brand Takeover](./assets/examples/ooh-billboard-brand-takeover.png)
+
+### 16. Editorial Collage Campaign Board
+
+适用场景：campaign moodboard、系列发布板、品牌 deck 封面图  
+完整文件：[prompts/commercial-formats/editorial-collage-campaign-board.md](./prompts/commercial-formats/editorial-collage-campaign-board.md)
+
+![Editorial Collage Campaign Board](./assets/examples/editorial-collage-campaign-board.png)
+
+### 17. Packaging Unboxing Reveal
+
+适用场景：礼赠 campaign、创作者风 launch 资产、高端包装 reveal 图  
+完整文件：[prompts/commercial-formats/packaging-unboxing-reveal.md](./prompts/commercial-formats/packaging-unboxing-reveal.md)
+
+![Packaging Unboxing Reveal](./assets/examples/packaging-unboxing-reveal.png)
+
 ## 更多双语案例
 
 - Beauty: [Clinical Beauty Dropper Detail](./prompts/beauty/clinical-beauty-dropper-detail.md)
+- Commercial Formats: [Scale Comparison Explainer](./prompts/commercial-formats/scale-comparison-explainer.md), [Social Story Launch Frame](./prompts/commercial-formats/social-story-launch-frame.md), [Lookbook Collection Grid](./prompts/commercial-formats/lookbook-collection-grid.md)
 - Fashion: [Editorial Fashion Flatlay](./prompts/fashion/editorial-fashion-flatlay.md), [Luxury Handbag Shelf Hero](./prompts/fashion/luxury-handbag-shelf-hero.md), [Heritage Leather Goods Maison Hero](./prompts/fashion/heritage-leather-goods-maison-hero.md)
 - Food & Beverage: [Clean Supplement Packshot](./prompts/food-beverage/clean-supplement-packshot.md), [Organic Coffee Lifestyle Pour](./prompts/food-beverage/organic-coffee-lifestyle-pour.md)
 - Home & Living: [Minimal Bedding Hero](./prompts/home-living/minimal-bedding-hero.md), [Scandinavian Chair Lifestyle](./prompts/home-living/scandinavian-chair-lifestyle.md)

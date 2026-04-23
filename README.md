@@ -3,8 +3,8 @@
 English | [简体中文](./README.zh-CN.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-28-blue.svg)](./prompts)
-[![Featured Gallery](https://img.shields.io/badge/featured-14-gold.svg)](./README.md#featured-gallery)
+[![Prompts](https://img.shields.io/badge/prompts-34-blue.svg)](./prompts)
+[![Featured Gallery](https://img.shields.io/badge/featured-17-gold.svg)](./README.md#featured-gallery)
 [![Languages](https://img.shields.io/badge/prompt_languages-EN%20%7C%20ZH-green.svg)](./README.zh-CN.md)
 
 A bilingual, production-oriented prompt library for **GPT-Image-2**, focused on **commercial visuals**, **brand storytelling**, **campaign systems**, and **conversion-ready product imagery**.
@@ -61,6 +61,22 @@ Sources:
 - Repo notes: [docs/gpt-image-2-best-practices.md](./docs/gpt-image-2-best-practices.md)
 
 Note: the exact template used in this repo is a practical system inferred from OpenAI guidance, not a literal required schema.
+
+## Why Official ChatGPT Prompts May Look Different
+
+OpenAI's official examples do **not** enforce one mandatory prompt format.
+
+In practice, there are three layers:
+
+- official examples show what kinds of details help
+- ChatGPT may internally rewrite or expand a request before image generation
+- this repo uses a repeatable production template so teams can audit, translate, and reuse prompts consistently
+
+That is why an official example may look like a natural paragraph, while this repo uses a structured format such as:
+
+`goal -> asset -> scene -> subject -> composition -> lighting -> materials -> constraints`
+
+The structure here is a working system for commercial teams, not a claim that OpenAI requires this exact syntax.
 
 ## Featured Gallery
 
@@ -530,9 +546,37 @@ Constraints: No flowers, no model, no hands, no text, no logo, no liquid splashe
 约束：不要花，不要模特，不要手，不要文字，不要 logo，不要液体飞溅，不要繁杂道具，不要廉价夜店感，不要水印。
 ```
 
+## Commercial Format Expansion
+
+Research notes: [docs/commercial-image-types.md](./docs/commercial-image-types.md)
+
+These additions are for commercial formats that are common in real launches, but are usually missing from prompt repositories: OOH, editorial collage systems, unboxing, mobile story frames, scale explainers, and collection grids.
+
+### 15. OOH Billboard Brand Takeover
+
+Use case: outdoor billboard mockup, launch key visual, retail window campaign concept  
+Full file: [prompts/commercial-formats/ooh-billboard-brand-takeover.md](./prompts/commercial-formats/ooh-billboard-brand-takeover.md)
+
+![OOH Billboard Brand Takeover](./assets/examples/ooh-billboard-brand-takeover.png)
+
+### 16. Editorial Collage Campaign Board
+
+Use case: campaign moodboard, collection launch board, brand deck cover visual  
+Full file: [prompts/commercial-formats/editorial-collage-campaign-board.md](./prompts/commercial-formats/editorial-collage-campaign-board.md)
+
+![Editorial Collage Campaign Board](./assets/examples/editorial-collage-campaign-board.png)
+
+### 17. Packaging Unboxing Reveal
+
+Use case: gifting campaign, creator-style launch asset, premium packaging reveal  
+Full file: [prompts/commercial-formats/packaging-unboxing-reveal.md](./prompts/commercial-formats/packaging-unboxing-reveal.md)
+
+![Packaging Unboxing Reveal](./assets/examples/packaging-unboxing-reveal.png)
+
 ## More Bilingual Cases
 
 - Beauty: [Clinical Beauty Dropper Detail](./prompts/beauty/clinical-beauty-dropper-detail.md)
+- Commercial Formats: [Scale Comparison Explainer](./prompts/commercial-formats/scale-comparison-explainer.md), [Social Story Launch Frame](./prompts/commercial-formats/social-story-launch-frame.md), [Lookbook Collection Grid](./prompts/commercial-formats/lookbook-collection-grid.md)
 - Fashion: [Editorial Fashion Flatlay](./prompts/fashion/editorial-fashion-flatlay.md), [Luxury Handbag Shelf Hero](./prompts/fashion/luxury-handbag-shelf-hero.md), [Heritage Leather Goods Maison Hero](./prompts/fashion/heritage-leather-goods-maison-hero.md)
 - Food & Beverage: [Clean Supplement Packshot](./prompts/food-beverage/clean-supplement-packshot.md), [Organic Coffee Lifestyle Pour](./prompts/food-beverage/organic-coffee-lifestyle-pour.md)
 - Home & Living: [Minimal Bedding Hero](./prompts/home-living/minimal-bedding-hero.md), [Scandinavian Chair Lifestyle](./prompts/home-living/scandinavian-chair-lifestyle.md)

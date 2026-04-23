@@ -306,5 +306,71 @@
     "languages": ["en", "zh-CN"],
     "featured": true,
     "example_image": "assets/examples/haute-parfum-nocturne-series.png"
+  },
+  {
+    "slug": "ooh-billboard-brand-takeover",
+    "category": "commercial-formats",
+    "title": "OOH Billboard Brand Takeover",
+    "title_zh": "户外广告品牌占位主视觉",
+    "use_case": "out-of-home commercial launch visual",
+    "asset_type": "billboard campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/ooh-billboard-brand-takeover.png"
+  },
+  {
+    "slug": "editorial-collage-campaign-board",
+    "category": "commercial-formats",
+    "title": "Editorial Collage Campaign Board",
+    "title_zh": "编辑拼贴 Campaign Board",
+    "use_case": "brand moodboard or collection launch visual",
+    "asset_type": "editorial collage campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/editorial-collage-campaign-board.png"
+  },
+  {
+    "slug": "packaging-unboxing-reveal",
+    "category": "commercial-formats",
+    "title": "Packaging Unboxing Reveal",
+    "title_zh": "包装开箱 Reveal 图",
+    "use_case": "premium packaging reveal visual",
+    "asset_type": "unboxing campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/packaging-unboxing-reveal.png"
+  },
+  {
+    "slug": "scale-comparison-explainer",
+    "category": "commercial-formats",
+    "title": "Scale Comparison Explainer",
+    "title_zh": "尺寸对比说明图",
+    "use_case": "size education visual",
+    "asset_type": "explainer image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "social-story-launch-frame",
+    "category": "commercial-formats",
+    "title": "Social Story Launch Frame",
+    "title_zh": "社媒 Story 发布版式",
+    "use_case": "vertical paid social launch visual",
+    "asset_type": "mobile-first story image",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
+  },
+  {
+    "slug": "lookbook-collection-grid",
+    "category": "commercial-formats",
+    "title": "Lookbook Collection Grid",
+    "title_zh": "系列 Lookbook 网格图",
+    "use_case": "collection landing page or lookbook visual",
+    "asset_type": "lookbook image system",
+    "languages": ["en", "zh-CN"],
+    "featured": false,
+    "example_image": ""
   }
 ]
