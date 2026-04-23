@@ -262,5 +262,49 @@
     "languages": ["en", "zh-CN"],
     "featured": false,
     "example_image": ""
+  },
+  {
+    "slug": "haute-jewelry-maison-salon",
+    "category": "jewelry",
+    "title": "Haute Jewelry Maison Salon",
+    "title_zh": "高珠 Maison 沙龙主视觉",
+    "use_case": "maison-style high jewelry collection visual",
+    "asset_type": "luxury jewelry campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/haute-jewelry-maison-salon.png"
+  },
+  {
+    "slug": "heritage-leather-goods-maison-hero",
+    "category": "fashion",
+    "title": "Heritage Leather Goods Maison Hero",
+    "title_zh": "传承皮具 Maison 主视觉",
+    "use_case": "luxury leather goods maison visual",
+    "asset_type": "luxury leather goods campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/heritage-leather-goods-maison-hero.png"
+  },
+  {
+    "slug": "horology-maison-midnight-atelier",
+    "category": "watches",
+    "title": "Horology Maison Midnight Atelier",
+    "title_zh": "午夜制表 Maison 工坊图",
+    "use_case": "luxury watch maison campaign visual",
+    "asset_type": "luxury horology campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/horology-maison-midnight-atelier.png"
+  },
+  {
+    "slug": "haute-parfum-nocturne-series",
+    "category": "fragrance",
+    "title": "Haute Parfum Nocturne Series",
+    "title_zh": "夜色高定香氛系列",
+    "use_case": "luxury fragrance maison campaign visual",
+    "asset_type": "luxury fragrance campaign image",
+    "languages": ["en", "zh-CN"],
+    "featured": true,
+    "example_image": "assets/examples/haute-parfum-nocturne-series.png"
   }
 ]

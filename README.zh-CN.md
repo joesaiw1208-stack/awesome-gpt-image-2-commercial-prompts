@@ -3,8 +3,8 @@
 [English](./README.md) | 简体中文
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
-[![Prompts](https://img.shields.io/badge/prompts-24-blue.svg)](./prompts)
-[![Featured Gallery](https://img.shields.io/badge/featured-10-gold.svg)](./README.zh-CN.md#精选案例画廊)
+[![Prompts](https://img.shields.io/badge/prompts-28-blue.svg)](./prompts)
+[![Featured Gallery](https://img.shields.io/badge/featured-14-gold.svg)](./README.zh-CN.md#精选案例画廊)
 [![Languages](https://img.shields.io/badge/prompt_languages-EN%20%7C%20ZH-green.svg)](./README.md)
 
 这是一个面向 **GPT-Image-2** 的双语 Prompt Gallery，专门服务于 **商业视觉**、**品牌叙事**、**营销 campaign** 和 **更接近转化目标的产品出图**。
@@ -386,15 +386,151 @@ Constraints: No readable signage, no visible brand marks, no crowd, no messy rec
 约束：不要可读标识，不要品牌 logo，不要拥挤人群，不要凌乱前台，不要透视畸变，不要水印。
 ```
 
+## 顶级奢侈品牌广告语言系列
+
+这 4 个新增案例不是普通“高端商品图”，而是更接近顶级 luxury maison 的广告系统语言：更克制的情绪、更强的 art direction、更可信的材质与空间关系。
+
+### 11. Haute Jewelry Maison Salon
+
+适用场景：maison 风格高珠发布、编辑式 hero、系列 campaign 主视觉  
+完整文件：[prompts/jewelry/haute-jewelry-maison-salon.md](./prompts/jewelry/haute-jewelry-maison-salon.md)
+
+![Haute Jewelry Maison Salon](./assets/examples/haute-jewelry-maison-salon.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create a top-tier high-jewelry campaign visual with the quiet authority of a historic luxury maison, emphasizing craftsmanship, rarity, and controlled brilliance.
+Asset: Brand hero image for a high jewelry collection reveal.
+Scene: Intimate salon-like luxury set with deep burgundy velvet, lacquered dark stone, and a faint architectural backdrop that feels refined rather than theatrical.
+Subject: One exceptional gemstone necklace paired with a matching ring, arranged as a curated set with the necklace clearly leading.
+Composition: Editorial luxury campaign composition, close-to-medium crop, elegant asymmetry, deliberate negative space, every key jewelry surface visible and believable.
+Lighting: Focused museum-grade spotlighting with crisp gemstone fire, soft ambient falloff, and subtle reflections that feel expensive and real.
+Materials and styling: Diamond and ruby-like stones, polished precious metal, velvet, lacquer, deep maison palette, restrained opulence.
+Constraints: No model, no hands, no text, no logo, no obvious brand imitation, no exaggerated sparkle stars, no clutter, no cheap costume-jewelry feel, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张具备顶级珠宝 maison 广告语言的高珠 campaign 图，重点体现稀缺感、工艺感和克制的高级闪耀。
+资产类型：高级珠宝系列发布的品牌 hero 主视觉。
+场景：带有私享沙龙气质的奢华布景，深酒红天鹅绒、深色漆面石材，以及若隐若现的建筑背景，精致但不浮夸。
+主体：一条高珠宝石项链搭配一枚配套戒指组成系列，其中项链必须是绝对主角。
+构图：高级编辑式构图，近景到中近景，优雅的不对称布局，留白克制，关键珠宝面都要真实可见。
+光线：博物馆级聚光，宝石火彩清晰但不过度，环境光柔和下沉，反射克制而昂贵。
+材质与风格：钻石与红宝石质感、抛光贵金属、天鹅绒、漆面石材，整体是深色 maison 调性下的克制奢华。
+约束：不要模特，不要手，不要文字，不要 logo，不要明显模仿任何具体品牌，不要夸张星芒，不要杂乱，不要廉价饰品感，不要水印。
+```
+
+### 12. Heritage Leather Goods Maison Hero
+
+适用场景：高端皮具 campaign、首页主视觉、品牌发布图  
+完整文件：[prompts/fashion/heritage-leather-goods-maison-hero.md](./prompts/fashion/heritage-leather-goods-maison-hero.md)
+
+![Heritage Leather Goods Maison Hero](./assets/examples/heritage-leather-goods-maison-hero.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create a heritage-luxury leather goods campaign visual that feels timeless, architectural, and globally premium.
+Asset: Homepage hero for a leather goods collection launch.
+Scene: Warm stone interior with sculptural arches, rich shadow depth, and a polished plinth that suggests a flagship boutique without showing a store.
+Subject: One structured top-handle leather bag as the hero piece, with refined hardware and a sculptural silhouette.
+Composition: Center-weighted but editorial, bag fully visible, room for premium negative space, luxury print-ad balance, no crop.
+Lighting: Soft directional sunlight crossing the set from one side, producing elegant contrast, gentle specular highlights on hardware, and believable grounding shadow.
+Materials and styling: Smooth calfskin leather, brushed gold-tone hardware, travertine or limestone surfaces, warm neutral palette, understated European luxury mood.
+Constraints: No model, no hands, no scarf, no logo, no monogram, no text, no shopping props, no clutter, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张具备 heritage luxury 气质的皮具广告主视觉，让画面显得 timeless、建筑化且国际化高级。
+资产类型：皮具系列发布的首页 hero 主视觉。
+场景：温暖石材室内空间，带雕塑感拱门和层次丰富的阴影，底座像精品旗舰店陈列但不直接出现门店。
+主体：一只硬挺结构感手提包作为唯一主角，五金精致，轮廓具有雕塑感。
+构图：偏居中但保持编辑感，包身完整可见，留白高级，像奢侈品牌平面广告，不要裁切主体。
+光线：单侧柔和方向性日光穿过空间，形成优雅对比，五金高光克制，落影真实。
+材质与风格：光滑小牛皮、拉丝金色金属件、洞石或石灰石表面、温暖中性色调，整体是低调欧洲高奢氛围。
+约束：不要模特，不要手，不要丝巾，不要 logo，不要老花，不要文字，不要购物道具，不要杂乱，不要水印。
+```
+
+### 13. Horology Maison Midnight Atelier
+
+适用场景：顶级制表 campaign、精品店 hero、藏家向发布图  
+完整文件：[prompts/watches/horology-maison-midnight-atelier.md](./prompts/watches/horology-maison-midnight-atelier.md)
+
+![Horology Maison Midnight Atelier](./assets/examples/horology-maison-midnight-atelier.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create a high-horology campaign image with the emotional restraint and technical prestige of a flagship maison, highlighting craft and precision rather than loud flash.
+Asset: Commercial hero image for a collector-grade watch launch.
+Scene: Midnight-blue to near-black atelier environment with layered metallic planes, faint reflections, and a subtle sense of engineered architecture.
+Subject: One precious-metal wristwatch as the hero object, with dial texture, bezel finishing, bracelet articulation, and crystal reflections all clearly resolved.
+Composition: Tight but luxurious three-quarter composition, watch dominant in frame, strong negative space, refined asymmetry, suitable for a flagship boutique homepage.
+Lighting: Controlled low-key lighting with razor-clean edge highlights, selective dial illumination, and soft graduated shadow.
+Materials and styling: Brushed and polished precious metal, sapphire crystal, deep blue-black surfaces, minimal haute horlogerie palette, restrained campaign mood.
+Constraints: No wrist, no model, no text, no logo, no second watch, no loud accent colors, no exaggerated reflections, no cheap CGI feel, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张具备顶级制表 maison 气质的腕表 campaign 图，用克制的情绪和技术权威感体现工艺与精准，而不是浮夸炫耀。
+资产类型：收藏级腕表发布的商业 hero 主视觉。
+场景：午夜蓝到近黑的 atelier 空间，带层叠金属平面、轻微反射和工程建筑般的秩序感。
+主体：一只贵金属腕表作为主角，表盘纹理、表圈打磨、表链结构和镜面反射都要清晰可信。
+构图：紧凑但奢华的三分之四构图，腕表占主导，留白强，不对称但平衡，适合旗舰精品店首页。
+光线：低调受控布光，边缘高光像刀锋一样干净，表盘局部照明精确，阴影层层渐隐。
+材质与风格：拉丝与抛光贵金属、蓝宝石镜面、深蓝黑表面，整体是高级制表的克制高奢调性。
+约束：不要手腕，不要模特，不要文字，不要 logo，不要第二只表，不要高饱和强调色，不要夸张反射，不要廉价 CGI 感，不要水印。
+```
+
+### 14. Haute Parfum Nocturne Series
+
+适用场景：高端香氛 campaign、品牌发布 hero、付费社媒静态图  
+完整文件：[prompts/fragrance/haute-parfum-nocturne-series.md](./prompts/fragrance/haute-parfum-nocturne-series.md)
+
+![Haute Parfum Nocturne Series](./assets/examples/haute-parfum-nocturne-series.png)
+
+**Prompt (EN)**
+
+```text
+Goal: Create a haute-parfum campaign image with strong identity, sensual restraint, and a premium nighttime editorial mood.
+Asset: Brand hero visual for a fragrance collection launch.
+Scene: Nocturnal luxury set with black lacquer, dark mirror reflections, and a ribbon of deep garnet light cutting through the darkness.
+Subject: One sculptural perfume bottle in dark glass with a refined cap, staged as a collectible object with no visible branding.
+Composition: Centered-to-slightly-off-center hero composition, bottle fully visible, elegant vertical emphasis, generous negative space, cinematic luxury balance.
+Lighting: Low-key spotlighting with jewel-like reflections, soft glow behind the bottle, and precise highlights that define the silhouette.
+Materials and styling: Smoked glass, polished lacquer, black mirror, garnet-toned atmosphere, sensual editorial finish.
+Constraints: No flowers, no model, no hands, no text, no logo, no liquid splashes, no busy props, no cheap nightclub vibe, no watermark.
+```
+
+**提示词（中文）**
+
+```text
+目标：生成一张顶级香氛广告图，既有强识别度，又有克制的感官张力和夜色编辑感。
+资产类型：香水系列发布的品牌 hero 主视觉。
+场景：夜色高奢布景，黑色漆面、深色镜面反射，以及一道深石榴红光线穿过黑暗。
+主体：一只深色玻璃雕塑感香水瓶作为唯一主角，瓶盖精致，不出现品牌标识。
+构图：居中或轻微偏心的主视觉构图，瓶身完整可见，竖向气质明确，留白充分，整体像电影感奢侈品广告。
+光线：低调聚光，反射像宝石一样精确，瓶后有轻柔背光，轮廓高光清楚定义形体。
+材质与风格：烟熏玻璃、抛光漆面、黑镜反射、石榴红氛围光，整体带感官化高级编辑质感。
+约束：不要花，不要模特，不要手，不要文字，不要 logo，不要液体飞溅，不要繁杂道具，不要廉价夜店感，不要水印。
+```
+
 ## 更多双语案例
 
 - Beauty: [Clinical Beauty Dropper Detail](./prompts/beauty/clinical-beauty-dropper-detail.md)
-- Fashion: [Editorial Fashion Flatlay](./prompts/fashion/editorial-fashion-flatlay.md), [Luxury Handbag Shelf Hero](./prompts/fashion/luxury-handbag-shelf-hero.md)
+- Fashion: [Editorial Fashion Flatlay](./prompts/fashion/editorial-fashion-flatlay.md), [Luxury Handbag Shelf Hero](./prompts/fashion/luxury-handbag-shelf-hero.md), [Heritage Leather Goods Maison Hero](./prompts/fashion/heritage-leather-goods-maison-hero.md)
 - Food & Beverage: [Clean Supplement Packshot](./prompts/food-beverage/clean-supplement-packshot.md), [Organic Coffee Lifestyle Pour](./prompts/food-beverage/organic-coffee-lifestyle-pour.md)
 - Home & Living: [Minimal Bedding Hero](./prompts/home-living/minimal-bedding-hero.md), [Scandinavian Chair Lifestyle](./prompts/home-living/scandinavian-chair-lifestyle.md)
-- Jewelry: [Bridal Ring Macro Detail](./prompts/jewelry/bridal-ring-macro-detail.md)
-- 腕表： [Luxury Watch Macro Campaign](./prompts/watches/luxury-watch-macro-campaign.md)
-- 香氛： [Fine Fragrance Obsidian Hero](./prompts/fragrance/fine-fragrance-obsidian-hero.md)
+- Jewelry: [Bridal Ring Macro Detail](./prompts/jewelry/bridal-ring-macro-detail.md), [Haute Jewelry Maison Salon](./prompts/jewelry/haute-jewelry-maison-salon.md)
+- 腕表： [Luxury Watch Macro Campaign](./prompts/watches/luxury-watch-macro-campaign.md), [Horology Maison Midnight Atelier](./prompts/watches/horology-maison-midnight-atelier.md)
+- 香氛： [Fine Fragrance Obsidian Hero](./prompts/fragrance/fine-fragrance-obsidian-hero.md), [Haute Parfum Nocturne Series](./prompts/fragrance/haute-parfum-nocturne-series.md)
 - 消费电子： [Premium Headphones Sculptural Hero](./prompts/consumer-tech/premium-headphones-sculptural-hero.md), [Flagship Smartphone Cinematic Launch](./prompts/consumer-tech/flagship-smartphone-cinematic-launch.md)
 - 汽车： [Luxury EV Night Showroom](./prompts/automotive/luxury-ev-night-showroom.md)
 - 酒店与餐饮： [Boutique Hotel Lobby Editorial](./prompts/hospitality/boutique-hotel-lobby-editorial.md), [Chef Tasting Menu Plating Campaign](./prompts/hospitality/chef-tasting-menu-plating-campaign.md)
