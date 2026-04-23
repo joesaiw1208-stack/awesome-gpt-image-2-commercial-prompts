@@ -33,12 +33,20 @@
     <th width="54%">提示词导航</th>
   </tr>
   <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/beauty-campaign-kv-editorial.png" alt="美妆 Campaign KV" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/beauty/beauty-campaign-kv-editorial.md"><strong>美妆 Campaign KV</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle"><img src="./assets/examples/clinical-beauty-dropper-detail.png" alt="临床感精华滴管微距" width="280" /></td>
     <td align="center" valign="middle"><a href="./prompts/beauty/clinical-beauty-dropper-detail.md"><strong>临床感精华滴管微距</strong></a></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="./assets/examples/luxury-skincare-hero.png" alt="高端护肤主视觉" width="280" /></td>
     <td align="center" valign="middle"><a href="./prompts/beauty/luxury-skincare-hero.md"><strong>高端护肤主视觉</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/xiaohongshu-beauty-cover.png" alt="小红书美妆封面" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/beauty/xiaohongshu-beauty-cover.md"><strong>小红书美妆封面</strong></a></td>
   </tr>
 </table>
 
@@ -76,6 +84,14 @@
     <td align="center" valign="middle"><a href="./prompts/commercial-formats/lookbook-collection-grid.md"><strong>系列 Lookbook 网格图</strong></a></td>
   </tr>
   <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/luxury-popup-experience.png" alt="高奢 Popup 沉浸空间" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/luxury-popup-experience.md"><strong>高奢 Popup 沉浸空间</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/luxury-window-display-ooh.png" alt="高奢门店橱窗 OOH" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/luxury-window-display-ooh.md"><strong>高奢门店橱窗 OOH</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle"><img src="./assets/examples/mobile-shopping-app-homepage.png" alt="移动电商首页截图" width="280" /></td>
     <td align="center" valign="middle"><a href="./prompts/commercial-formats/mobile-shopping-app-homepage.md"><strong>移动电商首页截图</strong></a></td>
   </tr>
@@ -90,6 +106,18 @@
   <tr>
     <td align="center" valign="middle"><img src="./assets/examples/product-carousel-storyboard.png" alt="产品轮播故事板" width="280" /></td>
     <td align="center" valign="middle"><a href="./prompts/commercial-formats/product-carousel-storyboard.md"><strong>产品轮播故事板</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/saas-case-study-page.png" alt="SaaS 客户案例页截图" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/saas-case-study-page.md"><strong>SaaS 客户案例页截图</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/saas-hero-dashboard-launch.png" alt="SaaS 首屏 Dashboard 发布页" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/saas-hero-dashboard-launch.md"><strong>SaaS 首屏 Dashboard 发布页</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/saas-pricing-page-showcase.png" alt="SaaS 定价页展示图" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/saas-pricing-page-showcase.md"><strong>SaaS 定价页展示图</strong></a></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="./assets/examples/scale-comparison-explainer.png" alt="尺寸对比说明图" width="280" /></td>

@@ -600,5 +600,103 @@
     ],
     "featured": false,
     "example_image": "assets/examples/luxury-editorial-bookshelf-scene.png"
+  },
+  {
+    "slug": "saas-hero-dashboard-launch",
+    "category": "commercial-formats",
+    "title": "SaaS Hero Dashboard Launch",
+    "title_zh": "SaaS 首屏 Dashboard 发布页",
+    "use_case": "SaaS homepage hero",
+    "asset_type": "website hero screenshot",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/saas-hero-dashboard-launch.png"
+  },
+  {
+    "slug": "saas-pricing-page-showcase",
+    "category": "commercial-formats",
+    "title": "SaaS Pricing Page Showcase",
+    "title_zh": "SaaS 定价页展示图",
+    "use_case": "pricing page concept",
+    "asset_type": "pricing page screenshot",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/saas-pricing-page-showcase.png"
+  },
+  {
+    "slug": "saas-case-study-page",
+    "category": "commercial-formats",
+    "title": "SaaS Case Study Page",
+    "title_zh": "SaaS 客户案例页截图",
+    "use_case": "customer story page visual",
+    "asset_type": "case study screenshot",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/saas-case-study-page.png"
+  },
+  {
+    "slug": "beauty-campaign-kv-editorial",
+    "category": "beauty",
+    "title": "Beauty Campaign KV Editorial",
+    "title_zh": "美妆 Campaign KV",
+    "use_case": "beauty brand launch KV",
+    "asset_type": "campaign key visual",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/beauty-campaign-kv-editorial.png"
+  },
+  {
+    "slug": "xiaohongshu-beauty-cover",
+    "category": "beauty",
+    "title": "Xiaohongshu Beauty Cover",
+    "title_zh": "小红书美妆封面",
+    "use_case": "Rednote beauty cover",
+    "asset_type": "social cover image",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/xiaohongshu-beauty-cover.png"
+  },
+  {
+    "slug": "luxury-popup-experience",
+    "category": "commercial-formats",
+    "title": "Luxury Popup Experience",
+    "title_zh": "高奢 Popup 沉浸空间",
+    "use_case": "luxury popup campaign concept",
+    "asset_type": "experiential brand visual",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/luxury-popup-experience.png"
+  },
+  {
+    "slug": "luxury-window-display-ooh",
+    "category": "commercial-formats",
+    "title": "Luxury Window Display OOH",
+    "title_zh": "高奢门店橱窗 OOH",
+    "use_case": "flagship window campaign",
+    "asset_type": "storefront campaign image",
+    "languages": [
+      "en",
+      "zh-CN"
+    ],
+    "featured": false,
+    "example_image": "assets/examples/luxury-window-display-ooh.png"
   }
 ]

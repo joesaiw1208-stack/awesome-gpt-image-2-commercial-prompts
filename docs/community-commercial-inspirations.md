@@ -23,6 +23,9 @@ Repo adaptation:
 
 - [Fragrance Editorial Landing Page](../prompts/commercial-formats/fragrance-editorial-landing-page.md)
 - [Mobile Shopping App Homepage](../prompts/commercial-formats/mobile-shopping-app-homepage.md)
+- [SaaS Hero Dashboard Launch](../prompts/commercial-formats/saas-hero-dashboard-launch.md)
+- [SaaS Pricing Page Showcase](../prompts/commercial-formats/saas-pricing-page-showcase.md)
+- [SaaS Case Study Page](../prompts/commercial-formats/saas-case-study-page.md)
 
 ### Commercial Typography and Chinese-Language Graphics
 
@@ -31,6 +34,7 @@ Repo adaptation:
 Repo adaptation:
 
 - [Brand Typography Launch Poster](../prompts/commercial-formats/brand-typography-launch-poster.md)
+- [Xiaohongshu Beauty Cover](../prompts/beauty/xiaohongshu-beauty-cover.md)
 
 ### Luxury Lifestyle and Interior Styling
 
@@ -49,4 +53,6 @@ Repo adaptation:
 
 - [Product Carousel Storyboard](../prompts/commercial-formats/product-carousel-storyboard.md)
 - [Boot Craftsmanship Vertical Launch](../prompts/fashion/boot-craftsmanship-vertical-launch.md)
-
+- [Luxury Popup Experience](../prompts/commercial-formats/luxury-popup-experience.md)
+- [Luxury Window Display OOH](../prompts/commercial-formats/luxury-window-display-ooh.md)
+- [Beauty Campaign KV Editorial](../prompts/beauty/beauty-campaign-kv-editorial.md)

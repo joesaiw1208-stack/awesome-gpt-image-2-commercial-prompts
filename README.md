@@ -33,12 +33,20 @@
     <th width="54%">Prompt</th>
   </tr>
   <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/beauty-campaign-kv-editorial.png" alt="Beauty Campaign KV Editorial" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/beauty/beauty-campaign-kv-editorial.md"><strong>Beauty Campaign KV Editorial</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle"><img src="./assets/examples/clinical-beauty-dropper-detail.png" alt="Clinical Beauty Dropper Detail" width="280" /></td>
     <td align="center" valign="middle"><a href="./prompts/beauty/clinical-beauty-dropper-detail.md"><strong>Clinical Beauty Dropper Detail</strong></a></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="./assets/examples/luxury-skincare-hero.png" alt="Luxury Skincare Hero" width="280" /></td>
     <td align="center" valign="middle"><a href="./prompts/beauty/luxury-skincare-hero.md"><strong>Luxury Skincare Hero</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/xiaohongshu-beauty-cover.png" alt="Xiaohongshu Beauty Cover" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/beauty/xiaohongshu-beauty-cover.md"><strong>Xiaohongshu Beauty Cover</strong></a></td>
   </tr>
 </table>
 
@@ -76,6 +84,14 @@
     <td align="center" valign="middle"><a href="./prompts/commercial-formats/lookbook-collection-grid.md"><strong>Lookbook Collection Grid</strong></a></td>
   </tr>
   <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/luxury-popup-experience.png" alt="Luxury Popup Experience" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/luxury-popup-experience.md"><strong>Luxury Popup Experience</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/luxury-window-display-ooh.png" alt="Luxury Window Display OOH" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/luxury-window-display-ooh.md"><strong>Luxury Window Display OOH</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" valign="middle"><img src="./assets/examples/mobile-shopping-app-homepage.png" alt="Mobile Shopping App Homepage" width="280" /></td>
     <td align="center" valign="middle"><a href="./prompts/commercial-formats/mobile-shopping-app-homepage.md"><strong>Mobile Shopping App Homepage</strong></a></td>
   </tr>
@@ -90,6 +106,18 @@
   <tr>
     <td align="center" valign="middle"><img src="./assets/examples/product-carousel-storyboard.png" alt="Product Carousel Storyboard" width="280" /></td>
     <td align="center" valign="middle"><a href="./prompts/commercial-formats/product-carousel-storyboard.md"><strong>Product Carousel Storyboard</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/saas-case-study-page.png" alt="SaaS Case Study Page" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/saas-case-study-page.md"><strong>SaaS Case Study Page</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/saas-hero-dashboard-launch.png" alt="SaaS Hero Dashboard Launch" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/saas-hero-dashboard-launch.md"><strong>SaaS Hero Dashboard Launch</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="./assets/examples/saas-pricing-page-showcase.png" alt="SaaS Pricing Page Showcase" width="280" /></td>
+    <td align="center" valign="middle"><a href="./prompts/commercial-formats/saas-pricing-page-showcase.md"><strong>SaaS Pricing Page Showcase</strong></a></td>
   </tr>
   <tr>
     <td align="center" valign="middle"><img src="./assets/examples/scale-comparison-explainer.png" alt="Scale Comparison Explainer" width="280" /></td>

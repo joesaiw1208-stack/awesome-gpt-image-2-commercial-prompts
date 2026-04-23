@@ -23,6 +23,9 @@
 
 - [香氛编辑式落地页](../prompts/commercial-formats/fragrance-editorial-landing-page.md)
 - [移动电商首页截图](../prompts/commercial-formats/mobile-shopping-app-homepage.md)
+- [SaaS 首屏 Dashboard 发布页](../prompts/commercial-formats/saas-hero-dashboard-launch.md)
+- [SaaS 定价页展示图](../prompts/commercial-formats/saas-pricing-page-showcase.md)
+- [SaaS 客户案例页截图](../prompts/commercial-formats/saas-case-study-page.md)
 
 ### 商业排版与中文视觉方向
 
@@ -31,6 +34,7 @@
 仓库转译案例：
 
 - [品牌排版发布海报](../prompts/commercial-formats/brand-typography-launch-poster.md)
+- [小红书美妆封面](../prompts/beauty/xiaohongshu-beauty-cover.md)
 
 ### 高端生活方式与空间陈列方向
 
@@ -49,4 +53,6 @@
 
 - [产品轮播故事板](../prompts/commercial-formats/product-carousel-storyboard.md)
 - [皮靴工艺竖版发布图](../prompts/fashion/boot-craftsmanship-vertical-launch.md)
-
+- [高奢 Popup 沉浸空间](../prompts/commercial-formats/luxury-popup-experience.md)
+- [高奢门店橱窗 OOH](../prompts/commercial-formats/luxury-window-display-ooh.md)
+- [美妆 Campaign KV](../prompts/beauty/beauty-campaign-kv-editorial.md)
